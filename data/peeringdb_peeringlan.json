@@ -20086,5 +20086,14 @@
     "region": "Africa",
     "url": "http://www.addix.et",
     "peeringlan": "196.49.98.0/24"
+  },
+  {
+    "id": "pdb_4358",
+    "name": "IXP-MN",
+    "country": "MN",
+    "city": "Ulaanbaatar",
+    "region": "Asia Pacific",
+    "url": "http://www.datacenter.gov.mn/en",
+    "peeringlan": "183.81.171.0/24"
   }
 ]

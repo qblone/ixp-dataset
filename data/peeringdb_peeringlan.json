@@ -19683,6 +19683,15 @@
     "peeringlan": "196.60.56.0/24"
   },
   {
+    "id": "pdb_4293",
+    "name": "CGIX-PNR",
+    "country": "CG",
+    "city": "Pointe-Noire",
+    "region": "Africa",
+    "url": "http://pointe-noire.cgix.cg",
+    "peeringlan": "2001:43f8:6a2::/64"
+  },
+  {
     "id": "pdb_4296",
     "name": "INIXP Asia",
     "country": "JP",
@@ -19842,7 +19851,16 @@
     "city": "New York",
     "region": "North America",
     "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/24"
+    "peeringlan": "2606:a980:0:2::/64"
+  },
+  {
+    "id": "pdb_4318",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.173.0/25"
   },
   {
     "id": "pdb_4320",

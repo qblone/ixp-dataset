@@ -20061,15 +20061,6 @@
     "peeringlan": "2801:155:7:4158::/64"
   },
   {
-    "id": "pdb_4349",
-    "name": "Extreme",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "http://mauleebroadband.com",
-    "peeringlan": "103.191.134.0/24"
-  },
-  {
     "id": "pdb_4352",
     "name": "DartNode IXP - Houston",
     "country": "US",
@@ -20113,5 +20104,14 @@
     "region": "Asia Pacific",
     "url": "http://www.datacenter.gov.mn/en",
     "peeringlan": "183.81.171.0/24"
+  },
+  {
+    "id": "pdb_4359",
+    "name": "Netiface IX - London",
+    "country": "GB",
+    "city": "London",
+    "region": "Europe",
+    "url": "https://ix.netiface.net/",
+    "peeringlan": "2a13:df87:2000::/64"
   }
 ]

@@ -20113,5 +20113,59 @@
     "region": "Europe",
     "url": "https://ix.netiface.net/",
     "peeringlan": "2a13:df87:2000::/64"
+  },
+  {
+    "id": "pdb_4361",
+    "name": "MegaIX Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "206.53.169.128/26"
+  },
+  {
+    "id": "pdb_4361",
+    "name": "MegaIX Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "2606:a980:0:a::/64"
+  },
+  {
+    "id": "pdb_4362",
+    "name": "MegaIX Miami",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "206.53.168.0/26"
+  },
+  {
+    "id": "pdb_4362",
+    "name": "MegaIX Miami",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "2606:a980:0:b::/64"
+  },
+  {
+    "id": "pdb_4363",
+    "name": "MegaIX Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "206.53.168.128/26"
+  },
+  {
+    "id": "pdb_4363",
+    "name": "MegaIX Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://www.megaport.com",
+    "peeringlan": "2606:a980:0:c::/64"
   }
 ]

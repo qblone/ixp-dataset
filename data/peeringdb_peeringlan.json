@@ -9351,42 +9351,6 @@
     "peeringlan": "2a00:13c0:3:2::/64"
   },
   {
-    "id": "pdb_1980",
-    "name": "CLOUD-IX KHA",
-    "country": "UA",
-    "city": "Kharkov",
-    "region": "Europe",
-    "url": "http://www.cloud-ix.net/",
-    "peeringlan": "31.28.26.0/24"
-  },
-  {
-    "id": "pdb_1980",
-    "name": "CLOUD-IX KHA",
-    "country": "UA",
-    "city": "Kharkov",
-    "region": "Europe",
-    "url": "http://www.cloud-ix.net/",
-    "peeringlan": "2a00:13c0:3:4::/64"
-  },
-  {
-    "id": "pdb_1981",
-    "name": "CLOUD-IX KIEV",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "http://www.cloud-ix.net/",
-    "peeringlan": "31.28.16.0/24"
-  },
-  {
-    "id": "pdb_1981",
-    "name": "CLOUD-IX KIEV",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "http://www.cloud-ix.net/",
-    "peeringlan": "2a00:13c0:3:3::/64"
-  },
-  {
     "id": "pdb_1982",
     "name": "CLOUD-IX EKT",
     "country": "RU",
@@ -18538,6 +18502,15 @@
     "region": "Europe",
     "url": "https://kttcarrier.com/solutions/peering-iceland",
     "peeringlan": "25.255.199.128/25"
+  },
+  {
+    "id": "pdb_4065",
+    "name": "REMIX",
+    "country": "IS",
+    "city": "Capital Region",
+    "region": "Europe",
+    "url": "https://kttcarrier.com/solutions/peering-iceland",
+    "peeringlan": "2001:67c:bdc:b00::/64"
   },
   {
     "id": "pdb_4066",

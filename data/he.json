@@ -3429,24 +3429,6 @@
     "peeringlan": "2001:7fa:11:3::/64"
   },
   {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "91.232.229.0/24"
-  },
-  {
-    "id": "he_Rheintal%20IX",
-    "name": "Rheintal IX",
-    "country": "LI",
-    "city": "Schaanwald",
-    "region": "Europe",
-    "url": "http://www.rheintal-ix.net",
-    "peeringlan": "2001:7f8:66::/64"
-  },
-  {
     "id": "he_Asteroid%20Mombasa",
     "name": "Asteroid Mombasa",
     "country": "KE",
@@ -3463,6 +3445,24 @@
     "region": "Africa",
     "url": "https://asteroidhq.com/ixp-locations/4",
     "peeringlan": "2001:7f8:b6:2::/64"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "91.232.229.0/24"
+  },
+  {
+    "id": "he_Rheintal%20IX",
+    "name": "Rheintal IX",
+    "country": "LI",
+    "city": "Schaanwald",
+    "region": "Europe",
+    "url": "http://www.rheintal-ix.net",
+    "peeringlan": "2001:7f8:66::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Brisbane",
@@ -4266,6 +4266,24 @@
     "peeringlan": "2001:7f8:117::/64"
   },
   {
+    "id": "he_DE-CIX%20Phoenix",
+    "name": "DE-CIX Phoenix",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/phoenix",
+    "peeringlan": "149.112.27.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Phoenix",
+    "name": "DE-CIX Phoenix",
+    "country": "US",
+    "city": "Phoenix",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/phoenix",
+    "peeringlan": "2001:504:116::/64"
+  },
+  {
     "id": "he_HFXIX",
     "name": "HFXIX",
     "country": "CA",
@@ -4300,24 +4318,6 @@
     "region": "Australia",
     "url": "http://www.edgeix.net",
     "peeringlan": "2001:df0:680:11::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Phoenix",
-    "name": "DE-CIX Phoenix",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/phoenix",
-    "peeringlan": "149.112.27.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Phoenix",
-    "name": "DE-CIX Phoenix",
-    "country": "US",
-    "city": "Phoenix",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/phoenix",
-    "peeringlan": "2001:504:116::/64"
   },
   {
     "id": "he_SUPRnet",

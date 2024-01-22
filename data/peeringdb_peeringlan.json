@@ -18086,7 +18086,7 @@
     "country": "ID",
     "city": "Jakarta",
     "region": "Asia Pacific",
-    "url": "http://pix.my.id",
+    "url": "http://pitix.cc",
     "peeringlan": "2001:df1:1c40:3::/64"
   },
   {
@@ -18484,15 +18484,6 @@
     "region": "Europe",
     "url": "https://ix.mario.gdn/",
     "peeringlan": "2a0e:46c4:28c0:b00b::/64"
-  },
-  {
-    "id": "pdb_4065",
-    "name": "REMIX",
-    "country": "IS",
-    "city": "Capital Region",
-    "region": "Europe",
-    "url": "https://kttcarrier.com/solutions/peering-iceland",
-    "peeringlan": "2a07:54c0::/64"
   },
   {
     "id": "pdb_4065",
@@ -20140,5 +20131,14 @@
     "region": "North America",
     "url": "https://www.megaport.com",
     "peeringlan": "2606:a980:0:c::/64"
+  },
+  {
+    "id": "pdb_4365",
+    "name": "MikeNetworks Internet Exchange Bruges",
+    "country": "BE",
+    "city": "Bruges",
+    "region": "Europe",
+    "url": "https://ix.mikenetworks.com/",
+    "peeringlan": "2a12:4946:3900::/64"
   }
 ]

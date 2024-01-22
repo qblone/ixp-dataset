@@ -1953,24 +1953,6 @@
     "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
-    "id": "he_APE",
-    "name": "APE",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://ape.nzix.net/",
-    "peeringlan": "192.203.154.0/24"
-  },
-  {
-    "id": "he_APE",
-    "name": "APE",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://ape.nzix.net/",
-    "peeringlan": "2001:7fa:4:c0cb::/64"
-  },
-  {
     "id": "he_MINAP",
     "name": "MINAP",
     "country": "IT",
@@ -1987,6 +1969,24 @@
     "region": "Europe",
     "url": "https://www.minap.it/",
     "peeringlan": "2001:7f8:c5::/48"
+  },
+  {
+    "id": "he_APE",
+    "name": "APE",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://ape.nzix.net/",
+    "peeringlan": "192.203.154.0/24"
+  },
+  {
+    "id": "he_APE",
+    "name": "APE",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://ape.nzix.net/",
+    "peeringlan": "2001:7fa:4:c0cb::/64"
   },
   {
     "id": "he_IX-Denver",

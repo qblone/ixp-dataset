@@ -20149,5 +20149,14 @@
     "region": "Europe",
     "url": "https://ix.mikenetworks.com/",
     "peeringlan": "2a12:4946:3900::/64"
+  },
+  {
+    "id": "pdb_4368",
+    "name": "MLG",
+    "country": "MM",
+    "city": "Yangon",
+    "region": "Asia Pacific",
+    "url": "http://www.lg-idc.com",
+    "peeringlan": "103.183.195.0/24"
   }
 ]

@@ -20503,8 +20503,8 @@
   },
   {
     "id": "pdb_4424",
-    "name": "SN-CONNECT - Internet eXchange",
-    "country": "DE",
+    "name": "SN-IX",
+    "country": "NL",
     "city": "Eygelshoven",
     "region": "Europe",
     "url": "https://ix.sn-tux.it/",

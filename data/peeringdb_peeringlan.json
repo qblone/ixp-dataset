@@ -3044,11 +3044,20 @@
   {
     "id": "pdb_287",
     "name": "Crimea-IX",
-    "country": "UA",
+    "country": "RU",
     "city": "Simferopol",
     "region": "Europe",
     "url": "http://crimea-ix.net/",
     "peeringlan": "91.194.162.0/24"
+  },
+  {
+    "id": "pdb_287",
+    "name": "Crimea-IX",
+    "country": "RU",
+    "city": "Simferopol",
+    "region": "Europe",
+    "url": "http://crimea-ix.net/",
+    "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
     "id": "pdb_288",
@@ -18730,20 +18739,20 @@
   },
   {
     "id": "pdb_4110",
-    "name": "PIT Colombia - Bucaramanga",
-    "country": "CO",
-    "city": "Bucaramanga",
+    "name": "PIT - Ecuador - Quito",
+    "country": "EC",
+    "city": "Quito",
     "region": "South America",
-    "url": "http://www.pitcolombia.net",
+    "url": "http://www.pit.net",
     "peeringlan": "2801:1a:5800:149::/64"
   },
   {
     "id": "pdb_4110",
-    "name": "PIT Colombia - Bucaramanga",
-    "country": "CO",
-    "city": "Bucaramanga",
+    "name": "PIT - Ecuador - Quito",
+    "country": "EC",
+    "city": "Quito",
     "region": "South America",
-    "url": "http://www.pitcolombia.net",
+    "url": "http://www.pit.net",
     "peeringlan": "45.68.38.0/24"
   },
   {
@@ -19571,7 +19580,7 @@
     "country": "PK",
     "city": "Karachi",
     "region": "Asia Pacific",
-    "url": "http://khi.de-cix.net",
+    "url": "https://www.de-cix.net/en/locations/karachi",
     "peeringlan": "58.181.127.0/24"
   },
   {
@@ -19580,7 +19589,7 @@
     "country": "PK",
     "city": "Karachi",
     "region": "Asia Pacific",
-    "url": "http://khi.de-cix.net",
+    "url": "https://www.de-cix.net/en/locations/karachi",
     "peeringlan": "2001:df2:b940::/64"
   },
   {
@@ -19618,6 +19627,24 @@
     "region": "North America",
     "url": "https://stix.do",
     "peeringlan": "2801:19:b800::/64"
+  },
+  {
+    "id": "pdb_4282",
+    "name": "DD-IX",
+    "country": "DE",
+    "city": "Dresden",
+    "region": "Europe",
+    "url": "https://dd-ix.net",
+    "peeringlan": "2001:7f8:79::/64"
+  },
+  {
+    "id": "pdb_4282",
+    "name": "DD-IX",
+    "country": "DE",
+    "city": "Dresden",
+    "region": "Europe",
+    "url": "https://dd-ix.net",
+    "peeringlan": "193.201.151.64/26"
   },
   {
     "id": "pdb_4285",
@@ -19879,6 +19906,24 @@
     "region": "Europe",
     "url": "https://arexico.com/exchange",
     "peeringlan": "2a0e:8f02:2260::/64"
+  },
+  {
+    "id": "pdb_4320",
+    "name": "AXCIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://arexico.com/exchange",
+    "peeringlan": "2001:7f8:157::/64"
+  },
+  {
+    "id": "pdb_4320",
+    "name": "AXCIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://arexico.com/exchange",
+    "peeringlan": "193.34.199.128/26"
   },
   {
     "id": "pdb_4322",
@@ -20518,5 +20563,14 @@
     "region": "Europe",
     "url": "https://ix.sn-tux.it/",
     "peeringlan": "2a0e:b107:2889::/64"
+  },
+  {
+    "id": "pdb_4432",
+    "name": "JAMUANFC-IX",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://as203686.ilh.my.id/jamuanfc-ix",
+    "peeringlan": "2a13:df80:e8e8:200::/64"
   }
 ]

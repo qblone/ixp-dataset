@@ -3672,6 +3672,24 @@
     "peeringlan": "2a03:67e0:0:9::/64"
   },
   {
+    "id": "he_VarnaIX",
+    "name": "VarnaIX",
+    "country": "BG",
+    "city": "Varna",
+    "region": "Europe",
+    "url": "http://www.varnaix.net",
+    "peeringlan": "185.1.137.0/24"
+  },
+  {
+    "id": "he_VarnaIX",
+    "name": "VarnaIX",
+    "country": "BG",
+    "city": "Varna",
+    "region": "Europe",
+    "url": "http://www.varnaix.net",
+    "peeringlan": "2001:7f8:db::/64"
+  },
+  {
     "id": "he_AMS-IX%20Chicago",
     "name": "AMS-IX Chicago",
     "country": "US",
@@ -3805,24 +3823,6 @@
     "region": "North America",
     "url": "https://pit-ix.net",
     "peeringlan": "2001:504:77::/64"
-  },
-  {
-    "id": "he_VarnaIX",
-    "name": "VarnaIX",
-    "country": "BG",
-    "city": "Varna",
-    "region": "Europe",
-    "url": "http://www.varnaix.net",
-    "peeringlan": "185.1.137.0/24"
-  },
-  {
-    "id": "he_VarnaIX",
-    "name": "VarnaIX",
-    "country": "BG",
-    "city": "Varna",
-    "region": "Europe",
-    "url": "http://www.varnaix.net",
-    "peeringlan": "2001:7f8:db::/64"
   },
   {
     "id": "he_DE-CIX%20Phoenix",

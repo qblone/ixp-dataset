@@ -936,6 +936,33 @@
     "peeringlan": "2001:504:40:108::/64"
   },
   {
+    "id": "he_NIXI%20Mumbai",
+    "name": "NIXI Mumbai",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
+    "peeringlan": "218.100.48.64/26"
+  },
+  {
+    "id": "he_NIXI%20Mumbai",
+    "name": "NIXI Mumbai",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
+    "peeringlan": "103.156.182.0/23"
+  },
+  {
+    "id": "he_NIXI%20Mumbai",
+    "name": "NIXI Mumbai",
+    "country": "IN",
+    "city": "Mumbai",
+    "region": "Asia Pacific",
+    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
+    "peeringlan": "2001:de8:1:1::/64"
+  },
+  {
     "id": "he_JINX",
     "name": "JINX",
     "country": "ZA",
@@ -1006,33 +1033,6 @@
     "region": "Asia Pacific",
     "url": "http://bix.id",
     "peeringlan": "2001:de8:11:3806:60::/80"
-  },
-  {
-    "id": "he_NIXI%20Mumbai",
-    "name": "NIXI Mumbai",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
-    "peeringlan": "218.100.48.64/26"
-  },
-  {
-    "id": "he_NIXI%20Mumbai",
-    "name": "NIXI Mumbai",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
-    "peeringlan": "103.156.182.0/23"
-  },
-  {
-    "id": "he_NIXI%20Mumbai",
-    "name": "NIXI Mumbai",
-    "country": "IN",
-    "city": "Mumbai",
-    "region": "Asia Pacific",
-    "url": "https://ix.nixi.in/en/running-noc/mumbai2",
-    "peeringlan": "2001:de8:1:1::/64"
   },
   {
     "id": "he_FCIX",

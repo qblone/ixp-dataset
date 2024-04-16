@@ -558,6 +558,15 @@
     "peeringlan": "2001:7fa:8::/64"
   },
   {
+    "id": "pdb_52_03",
+    "name": "KINX",
+    "country": "KR",
+    "city": "Seoul",
+    "region": "Asia Pacific",
+    "url": "https://www.kinx.net/?lang=en",
+    "peeringlan": "139.150.100.0/23"
+  },
+  {
     "id": "pdb_53_02",
     "name": "LONAP-LON0",
     "country": "GB",
@@ -16759,21 +16768,21 @@
   },
   {
     "id": "pdb_3974_01",
-    "name": "Ninja-IX San Diego",
+    "name": "Ninja-IX Auburn",
     "country": "US",
-    "city": "San Diego",
+    "city": "Auburn",
     "region": "North America",
-    "url": "https://ninja-ix.net/Market-Store/SanDiego.html",
+    "url": "https://ninja-ix.net/Market-Store/Auburn.html",
     "peeringlan": "149.112.25.0/24"
   },
   {
     "id": "pdb_3974_02",
-    "name": "Ninja-IX San Diego",
+    "name": "Ninja-IX Auburn",
     "country": "US",
-    "city": "San Diego",
+    "city": "Auburn",
     "region": "North America",
-    "url": "https://ninja-ix.net/Market-Store/SanDiego.html",
-    "peeringlan": "2001:504:74:9999::/64"
+    "url": "https://ninja-ix.net/Market-Store/Auburn.html",
+    "peeringlan": "2001:504:115::/64"
   },
   {
     "id": "pdb_3975_01",

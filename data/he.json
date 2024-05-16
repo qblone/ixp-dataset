@@ -2097,6 +2097,24 @@
     "peeringlan": "2001:7f8:ac:142::/64"
   },
   {
+    "id": "he_VANIX",
+    "name": "VANIX",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://www.vanix.ca",
+    "peeringlan": "206.41.104.0/24"
+  },
+  {
+    "id": "he_VANIX",
+    "name": "VANIX",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://www.vanix.ca",
+    "peeringlan": "2001:504:39::/64"
+  },
+  {
     "id": "he_IX%20Australia%20QLD",
     "name": "IX Australia QLD",
     "country": "AU",
@@ -2131,24 +2149,6 @@
     "region": "North America",
     "url": "http://www.stlix.net",
     "peeringlan": "2001:504:98::/64"
-  },
-  {
-    "id": "he_VANIX",
-    "name": "VANIX",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://www.vanix.ca",
-    "peeringlan": "206.41.104.0/24"
-  },
-  {
-    "id": "he_VANIX",
-    "name": "VANIX",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://www.vanix.ca",
-    "peeringlan": "2001:504:39::/64"
   },
   {
     "id": "he_WIX-NZ",
@@ -2628,24 +2628,6 @@
     "peeringlan": "2001:7f8:21:11::/64"
   },
   {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "http://www.six.sk",
-    "peeringlan": "192.108.148.0/24"
-  },
-  {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "http://www.six.sk",
-    "peeringlan": "2001:7f8:2f::/64"
-  },
-  {
     "id": "he_DE-CIX%20Lisbon",
     "name": "DE-CIX Lisbon",
     "country": "PT",
@@ -2662,6 +2644,24 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/lisbon",
     "peeringlan": "2001:7f8:d5::/64"
+  },
+  {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "http://www.six.sk",
+    "peeringlan": "192.108.148.0/24"
+  },
+  {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "http://www.six.sk",
+    "peeringlan": "2001:7f8:2f::/64"
   },
   {
     "id": "he_AMS-IX%20Hong%20Kong",
@@ -3096,24 +3096,6 @@
     "peeringlan": "2a04:bc40:1dc5:3::/64"
   },
   {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "185.1.119.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Barcelona",
-    "name": "DE-CIX Barcelona",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "https://www.de-cix.net/en/locations/barcelona",
-    "peeringlan": "2001:7f8:10a::/64"
-  },
-  {
     "id": "he_CIX",
     "name": "CIX",
     "country": "HR",
@@ -3148,6 +3130,24 @@
     "region": "Africa",
     "url": "https://asteroidhq.com/ixp-locations/4",
     "peeringlan": "2001:7f8:b6:2::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "185.1.119.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Barcelona",
+    "name": "DE-CIX Barcelona",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/en/locations/barcelona",
+    "peeringlan": "2001:7f8:10a::/64"
   },
   {
     "id": "he_SVAO-IX",
@@ -3744,6 +3744,24 @@
     "peeringlan": "2001:7f8:db::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_Lillix",
     "name": "Lillix",
     "country": "FR",
@@ -3796,24 +3814,6 @@
     "region": "Europe",
     "url": "http://ixleeds.net",
     "peeringlan": "2001:7f8:67:9::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_EPIX.Poznan",
@@ -4302,24 +4302,6 @@
     "peeringlan": "2001:504:60::/48"
   },
   {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "185.1.218.0/24"
-  },
-  {
-    "id": "he_Namex%20Bari%20IXP",
-    "name": "Namex Bari IXP",
-    "country": "IT",
-    "city": "Bari",
-    "region": "Europe",
-    "url": "https://bari.namex.it/",
-    "peeringlan": "2001:7f8:11b::/64"
-  },
-  {
     "id": "he_AAIX",
     "name": "AAIX",
     "country": "AT",
@@ -4336,6 +4318,24 @@
     "region": "Europe",
     "url": "https://ixp-manager.aaix.at",
     "peeringlan": "2001:7f8:4a::/48"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "185.1.218.0/24"
+  },
+  {
+    "id": "he_Namex%20Bari%20IXP",
+    "name": "Namex Bari IXP",
+    "country": "IT",
+    "city": "Bari",
+    "region": "Europe",
+    "url": "https://bari.namex.it/",
+    "peeringlan": "2001:7f8:11b::/64"
   },
   {
     "id": "he_CABASE-POS",

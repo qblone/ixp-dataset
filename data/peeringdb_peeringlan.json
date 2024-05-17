@@ -14931,24 +14931,6 @@
     "peeringlan": "178.236.227.0/24"
   },
   {
-    "id": "pdb_3548",
-    "name": "India Internet Exchange",
-    "country": "IN",
-    "city": "Indore",
-    "region": "Asia Pacific",
-    "url": "https://www.india-ix.net",
-    "peeringlan": "137.59.55.0/24"
-  },
-  {
-    "id": "pdb_3548",
-    "name": "India Internet Exchange",
-    "country": "IN",
-    "city": "Indore",
-    "region": "Asia Pacific",
-    "url": "https://www.india-ix.net",
-    "peeringlan": "2001:df4:5c80:3::/64"
-  },
-  {
     "id": "pdb_3553",
     "name": "IXP APROSVA",
     "country": "EC",
@@ -19890,24 +19872,6 @@
     "peeringlan": "2406:4b00:1806::/64"
   },
   {
-    "id": "pdb_4343",
-    "name": "PIT Argentina - Buenos Aires",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "https://www.pit.ar/",
-    "peeringlan": "45.68.50.0/24"
-  },
-  {
-    "id": "pdb_4343",
-    "name": "PIT Argentina - Buenos Aires",
-    "country": "AR",
-    "city": "Buenos Aires",
-    "region": "South America",
-    "url": "https://www.pit.ar/",
-    "peeringlan": "2801:155:7:4158::/64"
-  },
-  {
     "id": "pdb_4345",
     "name": "OMGNET-SGIX",
     "country": "SG",
@@ -20212,6 +20176,15 @@
     "region": "Europe",
     "url": "https://ix.se",
     "peeringlan": "193.243.183.128/26"
+  },
+  {
+    "id": "pdb_4381",
+    "name": "KeFF-IX",
+    "country": "SE",
+    "city": "Stockholm, Gothenburg, Malm\u00f6, Amsterdam",
+    "region": "Europe",
+    "url": "https://ix.se",
+    "peeringlan": "2001:7f8:153::/64"
   },
   {
     "id": "pdb_4384",

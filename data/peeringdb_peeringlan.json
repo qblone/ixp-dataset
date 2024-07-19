@@ -19023,7 +19023,7 @@
     "city": "Jakarta",
     "region": "Asia Pacific",
     "url": "https://mettadc.com/",
-    "peeringlan": "2001:df4:10c0:a::/64"
+    "peeringlan": "2001:df4:10c0:8888::/64"
   },
   {
     "id": "pdb_4193",

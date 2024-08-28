@@ -1638,6 +1638,24 @@
     "peeringlan": "2001:7fa:11:1::/64"
   },
   {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "185.1.240.0/24"
+  },
+  {
+    "id": "he_ERA-IX",
+    "name": "ERA-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://www.era-ix.com/",
+    "peeringlan": "2001:7f8:12a::/64"
+  },
+  {
     "id": "he_JPNAP%20Osaka",
     "name": "JPNAP Osaka",
     "country": "JP",
@@ -1663,6 +1681,24 @@
     "region": "Asia Pacific",
     "url": "https://www.jpnap.net/en/",
     "peeringlan": "2001:7fa:7:2::/64"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "103.158.187.0/24"
+  },
+  {
+    "id": "he_STUIX",
+    "name": "STUIX",
+    "country": "TW",
+    "city": "Taipei City",
+    "region": "Asia Pacific",
+    "url": "https://stuix.io",
+    "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
     "id": "he_CINX",
@@ -1692,24 +1728,6 @@
     "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "103.158.187.0/24"
-  },
-  {
-    "id": "he_STUIX",
-    "name": "STUIX",
-    "country": "TW",
-    "city": "Taipei City",
-    "region": "Asia Pacific",
-    "url": "https://stuix.io",
-    "peeringlan": "2a0f:5707:ffe3::/64"
-  },
-  {
     "id": "he_TOP-IX",
     "name": "TOP-IX",
     "country": "IT",
@@ -1735,24 +1753,6 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "185.1.240.0/24"
-  },
-  {
-    "id": "he_ERA-IX",
-    "name": "ERA-IX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.era-ix.com/",
-    "peeringlan": "2001:7f8:12a::/64"
   },
   {
     "id": "he_AKL-IX",
@@ -2574,6 +2574,24 @@
     "peeringlan": "2001:7f8:91::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "103.136.102.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
     "id": "he_SOLIX",
     "name": "SOLIX",
     "country": "SE",
@@ -2662,24 +2680,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/lisbon",
     "peeringlan": "2001:7f8:d5::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "103.136.102.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:3::/64"
   },
   {
     "id": "he_FIXO",
@@ -2988,15 +2988,6 @@
     "peeringlan": "2001:de8:1d::/64"
   },
   {
-    "id": "he_NSPIXP6",
-    "name": "NSPIXP6",
-    "country": "JP",
-    "city": "Tokyo",
-    "region": "Asia Pacific",
-    "url": "http://www.wide.ad.jp/nspixp6/",
-    "peeringlan": "2001:200:0:1800::/64"
-  },
-  {
     "id": "he_Asteroid%20Mombasa",
     "name": "Asteroid Mombasa",
     "country": "KE",
@@ -3013,6 +3004,15 @@
     "region": "Africa",
     "url": "https://asteroidhq.com/ixp-locations/4",
     "peeringlan": "2001:7f8:b6:2::/64"
+  },
+  {
+    "id": "he_NSPIXP6",
+    "name": "NSPIXP6",
+    "country": "JP",
+    "city": "Tokyo",
+    "region": "Asia Pacific",
+    "url": "http://www.wide.ad.jp/nspixp6/",
+    "peeringlan": "2001:200:0:1800::/64"
   },
   {
     "id": "he_DIX",
@@ -5967,24 +5967,6 @@
     "peeringlan": "185.1.194.0/24"
   },
   {
-    "id": "he_MegaIX%20Las%20Vegas",
-    "name": "MegaIX Las Vegas",
-    "country": "US",
-    "city": "Las Vegas",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.205.0/24"
-  },
-  {
-    "id": "he_MegaIX%20Las%20Vegas",
-    "name": "MegaIX Las Vegas",
-    "country": "US",
-    "city": "Las Vegas",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:A980:0:9:0:0:0:0/64"
-  },
-  {
     "id": "he_JinIX",
     "name": "JinIX",
     "country": "ID",
@@ -6073,6 +6055,24 @@
     "region": "South America",
     "url": "https://www.renater.fr/martinix",
     "peeringlan": "194.254.208.128/27"
+  },
+  {
+    "id": "he_MegaIX%20Las%20Vegas",
+    "name": "MegaIX Las Vegas",
+    "country": "US",
+    "city": "Las Vegas",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.205.0/24"
+  },
+  {
+    "id": "he_MegaIX%20Las%20Vegas",
+    "name": "MegaIX Las Vegas",
+    "country": "US",
+    "city": "Las Vegas",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:A980:0:9:0:0:0:0/64"
   },
   {
     "id": "he_KM-IX",

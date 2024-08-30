@@ -648,6 +648,24 @@
     "peeringlan": "2001:7f8:a0::/64"
   },
   {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "206.51.7.0/24"
+  },
+  {
+    "id": "he_KCIX",
+    "name": "KCIX",
+    "country": "US",
+    "city": "Kansas City",
+    "region": "North America",
+    "url": "http://www.kcix.net/",
+    "peeringlan": "2001:504:1B:1::/64"
+  },
+  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -673,24 +691,6 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/hamburg",
     "peeringlan": "2001:7f8:3d::/64"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "206.51.7.0/24"
-  },
-  {
-    "id": "he_KCIX",
-    "name": "KCIX",
-    "country": "US",
-    "city": "Kansas City",
-    "region": "North America",
-    "url": "http://www.kcix.net/",
-    "peeringlan": "2001:504:1B:1::/64"
   },
   {
     "id": "he_IX%20Australia%20NSW",
@@ -932,7 +932,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.atman.pl/",
+    "url": "https://www.atman.pl/en/connectivity/thinx-ix/",
     "peeringlan": "212.91.0.0/22"
   },
   {
@@ -941,7 +941,7 @@
     "country": "PL",
     "city": "Warsaw",
     "region": "Europe",
-    "url": "https://www.atman.pl/",
+    "url": "https://www.atman.pl/en/connectivity/thinx-ix/",
     "peeringlan": "2001:7f8:60::/48"
   },
   {
@@ -1224,24 +1224,6 @@
     "peeringlan": "2001:7F8:4:2::/64"
   },
   {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "196.10.141.0/24"
-  },
-  {
-    "id": "he_NAPAfrica%20IX%20Durban",
-    "name": "NAPAfrica IX Durban",
-    "country": "ZA",
-    "city": "Durban",
-    "region": "Africa",
-    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
-    "peeringlan": "2001:43f8:6d2::/64"
-  },
-  {
     "id": "he_W-IX",
     "name": "W-IX",
     "country": "RU",
@@ -1258,6 +1240,24 @@
     "region": "Europe",
     "url": "http://www.w-ix.ru",
     "peeringlan": "2a00:1b30::/64"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "196.10.141.0/24"
+  },
+  {
+    "id": "he_NAPAfrica%20IX%20Durban",
+    "name": "NAPAfrica IX Durban",
+    "country": "ZA",
+    "city": "Durban",
+    "region": "Africa",
+    "url": "http://www.napafrica.net/napafrica-traffic/durban-internet-exchange/",
+    "peeringlan": "2001:43f8:6d2::/64"
   },
   {
     "id": "he_BCIX",
@@ -3276,24 +3276,6 @@
     "peeringlan": "2001:7F8:16::/64"
   },
   {
-    "id": "he_TWIX",
-    "name": "TWIX",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "https://www.twix.net/index_e.html",
-    "peeringlan": "210.62.255.0/24"
-  },
-  {
-    "id": "he_TWIX",
-    "name": "TWIX",
-    "country": "TW",
-    "city": "Taipei",
-    "region": "Asia Pacific",
-    "url": "https://www.twix.net/index_e.html",
-    "peeringlan": "2001:7fa:1:7481::/64"
-  },
-  {
     "id": "he_SONIX",
     "name": "SONIX",
     "country": "SE",
@@ -3310,6 +3292,24 @@
     "region": "Europe",
     "url": "https://sonix.network",
     "peeringlan": "2001:7f8:117::/64"
+  },
+  {
+    "id": "he_TWIX",
+    "name": "TWIX",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "https://www.twix.net/index_e.html",
+    "peeringlan": "210.62.255.0/24"
+  },
+  {
+    "id": "he_TWIX",
+    "name": "TWIX",
+    "country": "TW",
+    "city": "Taipei",
+    "region": "Asia Pacific",
+    "url": "https://www.twix.net/index_e.html",
+    "peeringlan": "2001:7fa:1:7481::/64"
   },
   {
     "id": "he_SH-IX",
@@ -4833,42 +4833,6 @@
     "peeringlan": "2001:7f8:ad::/64"
   },
   {
-    "id": "he_TIX",
-    "name": "TIX",
-    "country": "IT",
-    "city": "Florence",
-    "region": "Europe",
-    "url": "http://www.tix.it/",
-    "peeringlan": "193.156.126.0/24"
-  },
-  {
-    "id": "he_TIX",
-    "name": "TIX",
-    "country": "IT",
-    "city": "Florence",
-    "region": "Europe",
-    "url": "http://www.tix.it/",
-    "peeringlan": "193.42.140.0/23"
-  },
-  {
-    "id": "he_TIX",
-    "name": "TIX",
-    "country": "IT",
-    "city": "Florence",
-    "region": "Europe",
-    "url": "http://www.tix.it/",
-    "peeringlan": "2001:7F8:12:5::/64"
-  },
-  {
-    "id": "he_TIX",
-    "name": "TIX",
-    "country": "IT",
-    "city": "Florence",
-    "region": "Europe",
-    "url": "http://www.tix.it/",
-    "peeringlan": "2001:7f8:57:1000::/64"
-  },
-  {
     "id": "he_TahoeIX",
     "name": "TahoeIX",
     "country": "US",
@@ -4903,15 +4867,6 @@
     "region": "Europe",
     "url": "http://www.tirol-ix.at/",
     "peeringlan": "2001:7f8:8d::/64"
-  },
-  {
-    "id": "he_Giganet%20IXN%20Lviv",
-    "name": "Giganet IXN Lviv",
-    "country": "UA",
-    "city": "Lviv",
-    "region": "Europe",
-    "url": "https://giganet.ua/uk",
-    "peeringlan": "185.1.66.0/24"
   },
   {
     "id": "he_NIX2",
@@ -4995,24 +4950,6 @@
     "peeringlan": "2001:504:9a::/64"
   },
   {
-    "id": "he_AMS-IX%20Singapore",
-    "name": "AMS-IX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.ams-ix.net/sin/",
-    "peeringlan": "112.137.24.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Singapore",
-    "name": "AMS-IX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.ams-ix.net/sin/",
-    "peeringlan": "2a00:8422:ae5::/64"
-  },
-  {
     "id": "he_AMS-IX%20Caribbean",
     "name": "AMS-IX Caribbean",
     "country": "CW",
@@ -5047,24 +4984,6 @@
     "region": "North America",
     "url": "http://www.yegix.ca/",
     "peeringlan": "2001:504:46::/48"
-  },
-  {
-    "id": "he_INEX%20Cork",
-    "name": "INEX Cork",
-    "country": "IE",
-    "city": "Cork",
-    "region": "Europe",
-    "url": "https://www.inex.ie",
-    "peeringlan": "185.1.69.0/24"
-  },
-  {
-    "id": "he_INEX%20Cork",
-    "name": "INEX Cork",
-    "country": "IE",
-    "city": "Cork",
-    "region": "Europe",
-    "url": "https://www.inex.ie",
-    "peeringlan": "2001:7f8:18:210::/64"
   },
   {
     "id": "he_CABASE-MDQ",
@@ -5265,33 +5184,6 @@
     "peeringlan": "2405:aac0:212::/64"
   },
   {
-    "id": "he_VIXP",
-    "name": "VIXP",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.securebit.ch",
-    "peeringlan": "185.1.216.0/24"
-  },
-  {
-    "id": "he_VIXP",
-    "name": "VIXP",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.securebit.ch",
-    "peeringlan": "2001:7f8:d9:ffff::/64"
-  },
-  {
-    "id": "he_VIXP",
-    "name": "VIXP",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.securebit.ch",
-    "peeringlan": "2001:7f8:d9:4::/64"
-  },
-  {
     "id": "he_SpokaneIX",
     "name": "SpokaneIX",
     "country": "US",
@@ -5308,42 +5200,6 @@
     "region": "North America",
     "url": "https://spokaneix.net/",
     "peeringlan": "2001:504:9f::/64"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/25"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:2::/64"
-  },
-  {
-    "id": "he_CHIX-NZ",
-    "name": "CHIX-NZ",
-    "country": "NZ",
-    "city": "Christchurch",
-    "region": "Australia",
-    "url": "http://chix.nzix.net/",
-    "peeringlan": "218.100.24.0/24"
-  },
-  {
-    "id": "he_CHIX-NZ",
-    "name": "CHIX-NZ",
-    "country": "NZ",
-    "city": "Christchurch",
-    "region": "Australia",
-    "url": "http://chix.nzix.net/",
-    "peeringlan": "2001:7fa:3:5f44::/64"
   },
   {
     "id": "he_DN-IX",
@@ -5364,96 +5220,6 @@
     "peeringlan": "2001:7f8:55::/64"
   },
   {
-    "id": "he_CABASE-BHB",
-    "name": "CABASE-BHB",
-    "country": "AR",
-    "city": "Bah\u00eda Blanca",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.37.0/24"
-  },
-  {
-    "id": "he_CABASE-BHB",
-    "name": "CABASE-BHB",
-    "country": "AR",
-    "city": "Bah\u00eda Blanca",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:6009::/64"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "185.1.176.0/24"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "185.1.251.0/24"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "136.175.224.0/28"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "2001:7f8:f9::/64"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "2001:7f8:132::/64"
-  },
-  {
-    "id": "he_RO-CIX",
-    "name": "RO-CIX",
-    "country": "RO",
-    "city": "Braila",
-    "region": "Europe",
-    "url": "https://whitehat.ro/internet-exchange",
-    "peeringlan": "2602:fcf6:1::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Singapore",
-    "name": "DE-CIX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/singapore",
-    "peeringlan": "103.159.71.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Singapore",
-    "name": "DE-CIX Singapore",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/singapore",
-    "peeringlan": "2001:df5:7880::/64"
-  },
-  {
     "id": "he_REUNIX",
     "name": "REUNIX",
     "country": "RE",
@@ -5461,96 +5227,6 @@
     "region": "Africa",
     "url": "http://www.renater.fr/spip.php?rubrique280",
     "peeringlan": "194.57.253.128/27"
-  },
-  {
-    "id": "he_CABASE-SFE",
-    "name": "CABASE-SFE",
-    "country": "AR",
-    "city": "Santa F\u00e9",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.14.74.0/24"
-  },
-  {
-    "id": "he_CABASE-SFE",
-    "name": "CABASE-SFE",
-    "country": "AR",
-    "city": "Santa F\u00e9",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:600D::/64"
-  },
-  {
-    "id": "he_Digital%20Realty%20Chicago",
-    "name": "Digital Realty Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://ix.digitalrealty.com",
-    "peeringlan": "206.83.11.0/24"
-  },
-  {
-    "id": "he_Digital%20Realty%20Chicago",
-    "name": "Digital Realty Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://ix.digitalrealty.com",
-    "peeringlan": "2001:504:17:11::/64"
-  },
-  {
-    "id": "he_BINX",
-    "name": "BINX",
-    "country": "BW",
-    "city": "Gaborone",
-    "region": "Africa",
-    "url": "http://www.binx.org.bw/",
-    "peeringlan": "192.168.179.0/24"
-  },
-  {
-    "id": "he_BINX",
-    "name": "BINX",
-    "country": "BW",
-    "city": "Gaborone",
-    "region": "Africa",
-    "url": "http://www.binx.org.bw/",
-    "peeringlan": "196.60.4.0/24"
-  },
-  {
-    "id": "he_CABASE-SZP",
-    "name": "CABASE-SZP",
-    "country": "AR",
-    "city": "Saenz Pe\u00f1a",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "138.204.248.0/24"
-  },
-  {
-    "id": "he_CABASE-SZP",
-    "name": "CABASE-SZP",
-    "country": "AR",
-    "city": "Saenz Pe\u00f1a",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "2001:13c7:6020::/64"
-  },
-  {
-    "id": "he_CN-IX%20Guangzhou",
-    "name": "CN-IX Guangzhou",
-    "country": "CN",
-    "city": "GuangZhou",
-    "region": "Asia Pacific",
-    "url": "http://www.cn-ix.com",
-    "peeringlan": "103.40.222.0/22"
-  },
-  {
-    "id": "he_CN-IX%20Guangzhou",
-    "name": "CN-IX Guangzhou",
-    "country": "CN",
-    "city": "GuangZhou",
-    "region": "Asia Pacific",
-    "url": "http://www.cn-ix.com",
-    "peeringlan": "103.114.240.0/24"
   },
   {
     "id": "he_Digital%20Realty%20Ashburn",
@@ -5571,15 +5247,6 @@
     "peeringlan": "2001:504:17:10::/64"
   },
   {
-    "id": "he_CABASE-RCU%20-%20IX%20Argentina%20(Rio%20Cuarto)",
-    "name": "CABASE-RCU - IX Argentina (Rio Cuarto)",
-    "country": "AR",
-    "city": "Rio Cuarto",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "201.182.132.0/24"
-  },
-  {
     "id": "he_IXBradford",
     "name": "IXBradford",
     "country": "GB",
@@ -5596,24 +5263,6 @@
     "region": "Europe",
     "url": "http://www.ixbradford.net",
     "peeringlan": "2001:7f8:f3::/64"
-  },
-  {
-    "id": "he_DesMoinesIX",
-    "name": "DesMoinesIX",
-    "country": "US",
-    "city": "Des Moines",
-    "region": "North America",
-    "url": "http://www.desmoinesix.net",
-    "peeringlan": "149.112.17.0/24"
-  },
-  {
-    "id": "he_DesMoinesIX",
-    "name": "DesMoinesIX",
-    "country": "US",
-    "city": "Des Moines",
-    "region": "North America",
-    "url": "http://www.desmoinesix.net",
-    "peeringlan": "2001:504:110::/64"
   },
   {
     "id": "he_COIX",
@@ -5652,24 +5301,6 @@
     "peeringlan": "2001:13C7:6010::/64"
   },
   {
-    "id": "he_NIXI%20Bangalore",
-    "name": "NIXI Bangalore",
-    "country": "IN",
-    "city": "Bangalore",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/bangalore",
-    "peeringlan": "218.100.49.0/26"
-  },
-  {
-    "id": "he_NIXI%20Bangalore",
-    "name": "NIXI Bangalore",
-    "country": "IN",
-    "city": "Bangalore",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/bangalore",
-    "peeringlan": "2001:de8:1:4::/64"
-  },
-  {
     "id": "he_CABASE-NGB",
     "name": "CABASE-NGB",
     "country": "AR",
@@ -5688,60 +5319,6 @@
     "peeringlan": "2001:13c7:6019::/64"
   },
   {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "206.71.137.0/24"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:73:cafe::/64"
-  },
-  {
-    "id": "he_MonctonIX",
-    "name": "MonctonIX",
-    "country": "CA",
-    "city": "Moncton",
-    "region": "North America",
-    "url": "http://monctonix.ca",
-    "peeringlan": "2001:504:37:30::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.184.198.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.83.68.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "2400:d180:72::/64"
-  },
-  {
     "id": "he_MGIX",
     "name": "MGIX",
     "country": "MG",
@@ -5758,24 +5335,6 @@
     "region": "Africa",
     "url": "http://www.mgix.mg",
     "peeringlan": "2001:43f8:a10::/64"
-  },
-  {
-    "id": "he_CABASE-BRC",
-    "name": "CABASE-BRC",
-    "country": "AR",
-    "city": "Bariloche",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "200.115.85.0/24"
-  },
-  {
-    "id": "he_CABASE-BRC",
-    "name": "CABASE-BRC",
-    "country": "AR",
-    "city": "Bariloche",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "2001:13C7:6015::/64"
   },
   {
     "id": "he_CABASE-DLC",
@@ -5814,24 +5373,6 @@
     "peeringlan": "2001:13C7:6014::/64"
   },
   {
-    "id": "he_CABASE-PER",
-    "name": "CABASE-PER",
-    "country": "AR",
-    "city": "Pergamino",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "138.204.245.0/24"
-  },
-  {
-    "id": "he_CABASE-PER",
-    "name": "CABASE-PER",
-    "country": "AR",
-    "city": "Pergamino",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar",
-    "peeringlan": "2001:13C7:6017::/64"
-  },
-  {
     "id": "he_IX%20Liverpool",
     "name": "IX Liverpool",
     "country": "GB",
@@ -5868,60 +5409,6 @@
     "peeringlan": "2001:7f8:a2:8000::/49"
   },
   {
-    "id": "he_CABASE-UAQ",
-    "name": "CABASE-UAQ",
-    "country": "AR",
-    "city": "San Juan",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "138.204.255.0/24"
-  },
-  {
-    "id": "he_CABASE-UAQ",
-    "name": "CABASE-UAQ",
-    "country": "AR",
-    "city": "San Juan",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2801:168:1::/48"
-  },
-  {
-    "id": "he_SR-IX",
-    "name": "SR-IX",
-    "country": "KG",
-    "city": "Bishkek",
-    "region": "Asia Pacific",
-    "url": "http://sr-ix.asia/",
-    "peeringlan": "185.54.252.0/24"
-  },
-  {
-    "id": "he_SR-IX",
-    "name": "SR-IX",
-    "country": "KG",
-    "city": "Bishkek",
-    "region": "Asia Pacific",
-    "url": "http://sr-ix.asia/",
-    "peeringlan": "2a00:7160:5::/64"
-  },
-  {
-    "id": "he_Namex%20Napoli",
-    "name": "Namex Napoli",
-    "country": "IT",
-    "city": "Napoli",
-    "region": "Europe",
-    "url": "https://www.namex.it/",
-    "peeringlan": "185.0.9.0/24"
-  },
-  {
-    "id": "he_Namex%20Napoli",
-    "name": "Namex Napoli",
-    "country": "IT",
-    "city": "Napoli",
-    "region": "Europe",
-    "url": "https://www.namex.it/",
-    "peeringlan": "2001:7f8:13f::/64"
-  },
-  {
     "id": "he_Ruhr-CIX",
     "name": "Ruhr-CIX",
     "country": "DE",
@@ -5947,24 +5434,6 @@
     "region": "South America",
     "url": "https://www.renater.fr/guyanix?lang=fr",
     "peeringlan": "194.57.235.0/24"
-  },
-  {
-    "id": "he_IX%20Australia%20ACT",
-    "name": "IX Australia ACT",
-    "country": "AU",
-    "city": "Canberra",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.54.128/25"
-  },
-  {
-    "id": "he_IX%20Australia%20ACT",
-    "name": "IX Australia ACT",
-    "country": "AU",
-    "city": "Canberra",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:5::/64"
   },
   {
     "id": "he_DE-CIX%20Johor%20Bahru",
@@ -6057,33 +5526,6 @@
     "peeringlan": "2606:a980:0:a::/64"
   },
   {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "185.1.128.0/24"
-  },
-  {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "2001:7f8:d3::/64"
-  },
-  {
-    "id": "he_MARTINIX",
-    "name": "MARTINIX",
-    "country": "MQ",
-    "city": "Fort-de-France",
-    "region": "South America",
-    "url": "https://www.renater.fr/martinix",
-    "peeringlan": "194.254.208.128/27"
-  },
-  {
     "id": "he_MegaIX%20Las%20Vegas",
     "name": "MegaIX Las Vegas",
     "country": "US",
@@ -6156,24 +5598,6 @@
     "peeringlan": "2001:504:14::/64"
   },
   {
-    "id": "he_NYIIX%20Philadelphia",
-    "name": "NYIIX Philadelphia",
-    "country": "US",
-    "city": "Philadelphia",
-    "region": "North America",
-    "url": "https://www.nyiix.net/locations/nyiix-philadelphia/",
-    "peeringlan": "206.51.30.0/24"
-  },
-  {
-    "id": "he_NYIIX%20Philadelphia",
-    "name": "NYIIX Philadelphia",
-    "country": "US",
-    "city": "Philadelphia",
-    "region": "North America",
-    "url": "https://www.nyiix.net/locations/nyiix-philadelphia/",
-    "peeringlan": "2001:504:1:9::/64"
-  },
-  {
     "id": "he_CN-IX%20Beijing",
     "name": "CN-IX Beijing",
     "country": "CN",
@@ -6181,24 +5605,6 @@
     "region": "Asia Pacific",
     "url": "http://www.cn-ix.com",
     "peeringlan": "144.48.88.0/24"
-  },
-  {
-    "id": "he_MidWest-IX%20-%20Cleveland",
-    "name": "MidWest-IX - Cleveland",
-    "country": "US",
-    "city": "Cleveland",
-    "region": "North America",
-    "url": "http://www.fd-ix.com",
-    "peeringlan": "206.82.109.0/24"
-  },
-  {
-    "id": "he_MidWest-IX%20-%20Cleveland",
-    "name": "MidWest-IX - Cleveland",
-    "country": "US",
-    "city": "Cleveland",
-    "region": "North America",
-    "url": "http://www.fd-ix.com",
-    "peeringlan": "2001:504:97::/64"
   },
   {
     "id": "he_FMIX",
@@ -6217,24 +5623,6 @@
     "region": "North America",
     "url": "https://fmix.net",
     "peeringlan": "2001:504:114::/64"
-  },
-  {
-    "id": "he_sumIX",
-    "name": "sumIX",
-    "country": "ID",
-    "city": "Pekanbaru",
-    "region": "Asia Pacific",
-    "url": "https://www.sumix.id/",
-    "peeringlan": "103.213.230.0/24"
-  },
-  {
-    "id": "he_sumIX",
-    "name": "sumIX",
-    "country": "ID",
-    "city": "Pekanbaru",
-    "region": "Asia Pacific",
-    "url": "https://www.sumix.id/",
-    "peeringlan": "2405:aac0:22::/64"
   },
   {
     "id": "he_MegaIX%20Miami",
@@ -6280,24 +5668,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13C7:6016::/64"
-  },
-  {
-    "id": "he_MegaIX%20Denver",
-    "name": "MegaIX Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://www.megaport.com",
-    "peeringlan": "206.53.168.128/26"
-  },
-  {
-    "id": "he_MegaIX%20Denver",
-    "name": "MegaIX Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://www.megaport.com",
-    "peeringlan": "2606:a980:0:c::/64"
   },
   {
     "id": "he_NIXI%20Ahmedabad",
@@ -6379,23 +5749,5 @@
     "region": "Australia",
     "url": "http://www.nzix.net/dpe.html",
     "peeringlan": "2001:7fa:3:5f40::/64"
-  },
-  {
-    "id": "he_HIX-NZ",
-    "name": "HIX-NZ",
-    "country": "NZ",
-    "city": "Hamilton",
-    "region": "Australia",
-    "url": "http://www.nzix.net/hix.html",
-    "peeringlan": "218.100.56.0/24"
-  },
-  {
-    "id": "he_HIX-NZ",
-    "name": "HIX-NZ",
-    "country": "NZ",
-    "city": "Hamilton",
-    "region": "Australia",
-    "url": "http://www.nzix.net/hix.html",
-    "peeringlan": "2001:7fa:3:b0df::/64"
   }
 ]

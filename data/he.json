@@ -540,24 +540,6 @@
     "peeringlan": "2001:504:1a::34:0/111"
   },
   {
-    "id": "he_SGIX",
-    "name": "SGIX",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.sgix.sg",
-    "peeringlan": "103.16.102.0/23"
-  },
-  {
-    "id": "he_SGIX",
-    "name": "SGIX",
-    "country": "SG",
-    "city": "Singapore",
-    "region": "Asia Pacific",
-    "url": "https://www.sgix.sg",
-    "peeringlan": "2001:de8:12:100::/56"
-  },
-  {
     "id": "he_SwissIX",
     "name": "SwissIX",
     "country": "CH",
@@ -574,6 +556,24 @@
     "region": "Europe",
     "url": "https://www.swissix.ch/",
     "peeringlan": "2001:7f8:24::/64"
+  },
+  {
+    "id": "he_SGIX",
+    "name": "SGIX",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.sgix.sg",
+    "peeringlan": "103.16.102.0/23"
+  },
+  {
+    "id": "he_SGIX",
+    "name": "SGIX",
+    "country": "SG",
+    "city": "Singapore",
+    "region": "Asia Pacific",
+    "url": "https://www.sgix.sg",
+    "peeringlan": "2001:de8:12:100::/56"
   },
   {
     "id": "he_JPNAP%20Tokyo",
@@ -1701,33 +1701,6 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "196.223.22.0/23"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1::/64"
-  },
-  {
-    "id": "he_CINX",
-    "name": "CINX",
-    "country": "ZA",
-    "city": "Cape Town",
-    "region": "Africa",
-    "url": "https://www.inx.net.za",
-    "peeringlan": "2001:43f8:1f1:1::/64"
-  },
-  {
     "id": "he_TOP-IX",
     "name": "TOP-IX",
     "country": "IT",
@@ -1753,6 +1726,33 @@
     "region": "Europe",
     "url": "http://www.top-ix.org",
     "peeringlan": "2001:7f8:23:ffff::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "196.223.22.0/23"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1::/64"
+  },
+  {
+    "id": "he_CINX",
+    "name": "CINX",
+    "country": "ZA",
+    "city": "Cape Town",
+    "region": "Africa",
+    "url": "https://www.inx.net.za",
+    "peeringlan": "2001:43f8:1f1:1::/64"
   },
   {
     "id": "he_AKL-IX",
@@ -2682,33 +2682,6 @@
     "peeringlan": "2001:7f8:be::/64"
   },
   {
-    "id": "he_FIXO",
-    "name": "FIXO",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "http://www.fixo.no",
-    "peeringlan": "91.198.176.0/24"
-  },
-  {
-    "id": "he_FIXO",
-    "name": "FIXO",
-    "country": "NO",
-    "city": "Oslo",
-    "region": "Europe",
-    "url": "http://www.fixo.no",
-    "peeringlan": "2001:7f8:41::/48"
-  },
-  {
-    "id": "he_PITER-IX%20Rostov",
-    "name": "PITER-IX Rostov",
-    "country": "RU",
-    "city": "Rostov",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "193.27.38.0/24"
-  },
-  {
     "id": "he_BKNIX",
     "name": "BKNIX",
     "country": "TH",
@@ -2734,6 +2707,33 @@
     "region": "Asia Pacific",
     "url": "https://bknix.co.th",
     "peeringlan": "2001:df5:b881::/64"
+  },
+  {
+    "id": "he_FIXO",
+    "name": "FIXO",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.fixo.no",
+    "peeringlan": "91.198.176.0/24"
+  },
+  {
+    "id": "he_FIXO",
+    "name": "FIXO",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.fixo.no",
+    "peeringlan": "2001:7f8:41::/48"
+  },
+  {
+    "id": "he_PITER-IX%20Rostov",
+    "name": "PITER-IX Rostov",
+    "country": "RU",
+    "city": "Rostov",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "193.27.38.0/24"
   },
   {
     "id": "he_MegaIX%20Perth",
@@ -2970,24 +2970,6 @@
     "peeringlan": "2a02:d10:80::/64"
   },
   {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "http://cnx.net.kh",
-    "peeringlan": "103.7.144.0/26"
-  },
-  {
-    "id": "he_CNX",
-    "name": "CNX",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "http://cnx.net.kh",
-    "peeringlan": "2001:de8:1d::/64"
-  },
-  {
     "id": "he_Asteroid%20Mombasa",
     "name": "Asteroid Mombasa",
     "country": "KE",
@@ -3004,6 +2986,24 @@
     "region": "Africa",
     "url": "https://asteroidhq.com/ixp-locations/4",
     "peeringlan": "2001:7f8:b6:2::/64"
+  },
+  {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "http://cnx.net.kh",
+    "peeringlan": "103.7.144.0/26"
+  },
+  {
+    "id": "he_CNX",
+    "name": "CNX",
+    "country": "KH",
+    "city": "Phnom Penh",
+    "region": "Asia Pacific",
+    "url": "http://cnx.net.kh",
+    "peeringlan": "2001:de8:1d::/64"
   },
   {
     "id": "he_NSPIXP6",

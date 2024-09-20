@@ -1827,6 +1827,24 @@
     "peeringlan": "2401:fdc0::/64"
   },
   {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "206.53.175.0/24"
+  },
+  {
+    "id": "he_IX-Denver",
+    "name": "IX-Denver",
+    "country": "US",
+    "city": "Denver",
+    "region": "North America",
+    "url": "https://ix-denver.org",
+    "peeringlan": "2001:504:58::/64"
+  },
+  {
     "id": "he_YYCIX",
     "name": "YYCIX",
     "country": "CA",
@@ -1861,24 +1879,6 @@
     "region": "Europe",
     "url": "https://www.minap.it/",
     "peeringlan": "2001:7f8:c5::/48"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "206.53.175.0/24"
-  },
-  {
-    "id": "he_IX-Denver",
-    "name": "IX-Denver",
-    "country": "US",
-    "city": "Denver",
-    "region": "North America",
-    "url": "https://ix-denver.org",
-    "peeringlan": "2001:504:58::/64"
   },
   {
     "id": "he_BNIX",
@@ -2295,33 +2295,6 @@
     "peeringlan": "2400:d180:68::/64"
   },
   {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "218.100.48.128/26"
-  },
-  {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "103.218.247.0/24"
-  },
-  {
-    "id": "he_NIXI%20Chennai",
-    "name": "NIXI Chennai",
-    "country": "IN",
-    "city": "Chennai",
-    "region": "Asia Pacific",
-    "url": "https://nixi.in/en/running-noc/chennai",
-    "peeringlan": "2001:de8:1:2::/64"
-  },
-  {
     "id": "he_NIX",
     "name": "NIX",
     "country": "NO",
@@ -2347,6 +2320,33 @@
     "region": "Europe",
     "url": "https://www.nix.no",
     "peeringlan": "2001:7f8:12:1::/64"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "218.100.48.128/26"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "103.218.247.0/24"
+  },
+  {
+    "id": "he_NIXI%20Chennai",
+    "name": "NIXI Chennai",
+    "country": "IN",
+    "city": "Chennai",
+    "region": "Asia Pacific",
+    "url": "https://nixi.in/en/running-noc/chennai",
+    "peeringlan": "2001:de8:1:2::/64"
   },
   {
     "id": "he_AMS-IX%20India",
@@ -5326,6 +5326,42 @@
     "region": "North America",
     "url": "https://spokaneix.net/",
     "peeringlan": "2001:504:9f::/64"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "23.154.112.0/26"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "149.112.114.0/24"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2602:802:b0ff::/64"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2001:505:140::/64"
   },
   {
     "id": "he_CHIX-NZ",

@@ -1422,24 +1422,6 @@
     "peeringlan": "2001:7f8:12a::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "202.77.88.0/23"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Sydney",
-    "name": "EdgeIX - Sydney",
-    "country": "AU",
-    "city": "Sydney",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:5::/64"
-  },
-  {
     "id": "he_SFMIX",
     "name": "SFMIX",
     "country": "US",
@@ -1483,6 +1465,24 @@
     "region": "Europe",
     "url": "https://www.securebit.ch/internet/exchange",
     "peeringlan": "2001:7f8:d9:1::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "202.77.88.0/23"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Sydney",
+    "name": "EdgeIX - Sydney",
+    "country": "AU",
+    "city": "Sydney",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:5::/64"
   },
   {
     "id": "he_UNMETERED%20Exchange",
@@ -2754,24 +2754,6 @@
     "peeringlan": "2001:df0:296::/64"
   },
   {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "149.112.11.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Chicago",
-    "name": "DE-CIX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
-    "peeringlan": "2001:504:102::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Melbourne",
     "name": "EdgeIX - Melbourne",
     "country": "AU",
@@ -2788,6 +2770,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:6::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "149.112.11.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Chicago",
+    "name": "DE-CIX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/united-states/chicago",
+    "peeringlan": "2001:504:102::/64"
   },
   {
     "id": "he_CRIX",
@@ -2898,24 +2898,6 @@
     "peeringlan": "2404:2C00:FFFF:E::/64"
   },
   {
-    "id": "he_CATNIX",
-    "name": "CATNIX",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "http://www.catnix.net",
-    "peeringlan": "193.242.98.0/24"
-  },
-  {
-    "id": "he_CATNIX",
-    "name": "CATNIX",
-    "country": "ES",
-    "city": "Barcelona",
-    "region": "Europe",
-    "url": "http://www.catnix.net",
-    "peeringlan": "2001:7f8:2a::/64"
-  },
-  {
     "id": "he_LINX%20NoVA",
     "name": "LINX NoVA",
     "country": "US",
@@ -2932,6 +2914,24 @@
     "region": "North America",
     "url": "https://www.linx.net/about/our-network/linx-nova/",
     "peeringlan": "2001:504:31::/64"
+  },
+  {
+    "id": "he_CATNIX",
+    "name": "CATNIX",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "http://www.catnix.net",
+    "peeringlan": "193.242.98.0/24"
+  },
+  {
+    "id": "he_CATNIX",
+    "name": "CATNIX",
+    "country": "ES",
+    "city": "Barcelona",
+    "region": "Europe",
+    "url": "http://www.catnix.net",
+    "peeringlan": "2001:7f8:2a::/64"
   },
   {
     "id": "he_Balcan-IX",
@@ -3294,6 +3294,24 @@
     "peeringlan": "2001:7fa:1:7481::/64"
   },
   {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.136.103.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:4::/64"
+  },
+  {
     "id": "he_SH-IX",
     "name": "SH-IX",
     "country": "AE",
@@ -3328,24 +3346,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar/",
     "peeringlan": "2001:13C7:600E::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.136.103.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:4::/64"
   },
   {
     "id": "he_DE-CIX%20Kuala%20Lumpur",
@@ -5184,6 +5184,42 @@
     "peeringlan": "2001:7f8:d9:4::/64"
   },
   {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "23.154.112.0/26"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "149.112.114.0/24"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2602:802:b0ff::/64"
+  },
+  {
+    "id": "he_PaducahIX",
+    "name": "PaducahIX",
+    "country": "US",
+    "city": "Paducah",
+    "region": "North America",
+    "url": "https://paducahix.net",
+    "peeringlan": "2001:505:140::/64"
+  },
+  {
     "id": "he_MegaIX%20New%20York",
     "name": "MegaIX New York",
     "country": "US",
@@ -5326,42 +5362,6 @@
     "region": "North America",
     "url": "https://spokaneix.net/",
     "peeringlan": "2001:504:9f::/64"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "23.154.112.0/26"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "149.112.114.0/24"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "2602:802:b0ff::/64"
-  },
-  {
-    "id": "he_PaducahIX",
-    "name": "PaducahIX",
-    "country": "US",
-    "city": "Paducah",
-    "region": "North America",
-    "url": "https://paducahix.net",
-    "peeringlan": "2001:505:140::/64"
   },
   {
     "id": "he_CHIX-NZ",
@@ -6111,24 +6111,6 @@
     "peeringlan": "2606:a980:0:a::/64"
   },
   {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "185.1.128.0/24"
-  },
-  {
-    "id": "he_LNK-IX",
-    "name": "LNK-IX",
-    "country": "RO",
-    "city": "Targoviste",
-    "region": "Europe",
-    "url": "https://lnkix.lnksystems.com/",
-    "peeringlan": "2001:7f8:d3::/64"
-  },
-  {
     "id": "he_MARTINIX",
     "name": "MARTINIX",
     "country": "MQ",
@@ -6415,6 +6397,24 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:a980:0:6::/64"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "185.1.128.0/24"
+  },
+  {
+    "id": "he_LNK-IX",
+    "name": "LNK-IX",
+    "country": "RO",
+    "city": "Targoviste",
+    "region": "Europe",
+    "url": "https://lnkix.lnksystems.com/",
+    "peeringlan": "2001:7f8:d3::/64"
   },
   {
     "id": "he_DPE",

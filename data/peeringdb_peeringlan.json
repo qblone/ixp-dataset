@@ -7875,6 +7875,15 @@
     "peeringlan": "2001:504:16:1::/64"
   },
   {
+    "id": "pdb_1285",
+    "name": "SIX Seattle (Jumbo)-MTU 9000",
+    "country": "US",
+    "city": "Seattle",
+    "region": "North America",
+    "url": "https://www.seattleix.net/",
+    "peeringlan": "149.112.96.0/22"
+  },
+  {
     "id": "pdb_1302",
     "name": "IX Liverpool - MICT-Titanic",
     "country": "GB",
@@ -21231,6 +21240,24 @@
     "peeringlan": "2001:df5:e880:9124::/64"
   },
   {
+    "id": "pdb_4573",
+    "name": "DARIX",
+    "country": "TZ",
+    "city": "Dar es Salaam",
+    "region": "Africa",
+    "url": "https://darix.co.tz",
+    "peeringlan": "2c0f:2580::/64"
+  },
+  {
+    "id": "pdb_4573",
+    "name": "DARIX",
+    "country": "TZ",
+    "city": "Dar es Salaam",
+    "region": "Africa",
+    "url": "https://darix.co.tz",
+    "peeringlan": "102.214.32.0/26"
+  },
+  {
     "id": "pdb_4574",
     "name": "IdahoIX",
     "country": "US",
@@ -21357,6 +21384,15 @@
     "peeringlan": "193.192.12.0/26"
   },
   {
+    "id": "pdb_4589",
+    "name": "NSIX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://ns-ix.net",
+    "peeringlan": "2001:7f8:130::/64"
+  },
+  {
     "id": "pdb_4590",
     "name": "BATI-IX",
     "country": "ID",
@@ -21373,5 +21409,14 @@
     "region": "Asia Pacific",
     "url": "http://batiix.net",
     "peeringlan": "2405:4c80:2024:1211::/64"
+  },
+  {
+    "id": "pdb_4591",
+    "name": "SDIXP - US",
+    "country": "US",
+    "city": "Los Angeles",
+    "region": "North America",
+    "url": "http://sdixp.com",
+    "peeringlan": "2a06:de00:de0f::/64"
   }
 ]

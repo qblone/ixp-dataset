@@ -1,8 +1,8 @@
 name: Notify Webhook
-on:
-  schedule:
-    - cron: '0 1 * * *'  # Runs every day at 01:00
-  workflow_dispatch:  # Allows manual triggering
+# on:
+#  schedule:
+#    - cron: '0 1 * * *'  # Runs every day at 01:00
+#  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   build:

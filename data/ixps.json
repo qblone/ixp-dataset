@@ -22977,6 +22977,15 @@
     "peeringlan": "193.34.197.0/24"
   },
   {
+    "id": "he_AF-CIX_01",
+    "name": "AF-CIX",
+    "country": "NG",
+    "city": "Lagos",
+    "region": "Africa",
+    "url": "https://www.af-cix.net/",
+    "peeringlan": "196.60.104.0/24"
+  },
+  {
     "id": "he_GIXA_01",
     "name": "GIXA",
     "country": "GH",
@@ -23011,15 +23020,6 @@
     "region": "Asia Pacific",
     "url": "http://www.cn-ix.com",
     "peeringlan": "43.249.135.0/22"
-  },
-  {
-    "id": "he_AF-CIX_01",
-    "name": "AF-CIX",
-    "country": "NG",
-    "city": "Lagos",
-    "region": "Africa",
-    "url": "https://www.af-cix.net/",
-    "peeringlan": "196.60.104.0/24"
   },
   {
     "id": "he_LITIX_01",
@@ -23058,6 +23058,15 @@
     "peeringlan": "2001:7f8:b6:1::/64"
   },
   {
+    "id": "he_ANIX_01",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "185.1.100.0/24"
+  },
+  {
     "id": "he_ROPN-IX_01",
     "name": "ROPN-IX",
     "country": "RO",
@@ -23074,15 +23083,6 @@
     "region": "Europe",
     "url": "https://www.era-ix.com/frankfurt",
     "peeringlan": "193.201.155.0/26"
-  },
-  {
-    "id": "he_ANIX_01",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "185.1.100.0/24"
   },
   {
     "id": "he_SUPRnet_01",

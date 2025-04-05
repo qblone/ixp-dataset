@@ -1395,24 +1395,6 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "206.81.104.0/24"
-  },
-  {
-    "id": "he_EVIX",
-    "name": "EVIX",
-    "country": "US",
-    "city": "Fremont",
-    "region": "North America",
-    "url": "https://evix.org",
-    "peeringlan": "2602:fed2:fff:ffff::/64"
-  },
-  {
     "id": "he_SBIX",
     "name": "SBIX",
     "country": "CH",
@@ -1440,6 +1422,24 @@
     "peeringlan": "2001:7f8:d9:1::/64"
   },
   {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "206.81.104.0/24"
+  },
+  {
+    "id": "he_EVIX",
+    "name": "EVIX",
+    "country": "US",
+    "city": "Fremont",
+    "region": "North America",
+    "url": "https://evix.org",
+    "peeringlan": "2602:fed2:fff:ffff::/64"
+  },
+  {
     "id": "he_BIX.BG",
     "name": "BIX.BG",
     "country": "BG",
@@ -1458,15 +1458,6 @@
     "peeringlan": "2001:7f8:58::/64"
   },
   {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
-  },
-  {
     "id": "he_SFMIX",
     "name": "SFMIX",
     "country": "US",
@@ -1483,6 +1474,15 @@
     "region": "North America",
     "url": "https://sfmix.org/",
     "peeringlan": "2001:504:30::/48"
+  },
+  {
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -2538,6 +2538,24 @@
     "peeringlan": "2001:504:3b:1::/64"
   },
   {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "194.30.187.0/24"
+  },
+  {
+    "id": "he_NIX.SK",
+    "name": "NIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.nix.sk/sk",
+    "peeringlan": "2001:7f8:91::/64"
+  },
+  {
     "id": "he_BKNIX",
     "name": "BKNIX",
     "country": "TH",
@@ -2563,24 +2581,6 @@
     "region": "Asia Pacific",
     "url": "https://bknix.co.th",
     "peeringlan": "2001:df5:b881::/64"
-  },
-  {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "194.30.187.0/24"
-  },
-  {
-    "id": "he_NIX.SK",
-    "name": "NIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.nix.sk/sk",
-    "peeringlan": "2001:7f8:91::/64"
   },
   {
     "id": "he_SOLIX",
@@ -2781,6 +2781,24 @@
     "peeringlan": "2001:df0:296::/64"
   },
   {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
+  },
+  {
     "id": "he_Giganet%20IXN%20Frankfurt",
     "name": "Giganet IXN Frankfurt",
     "country": "DE",
@@ -2806,24 +2824,6 @@
     "region": "Europe",
     "url": "http://www.catnix.net",
     "peeringlan": "2001:7f8:2a::/64"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_CRIX",
@@ -3375,6 +3375,24 @@
     "peeringlan": "149.112.104.0/23"
   },
   {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.180.190.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Auckland",
+    "name": "EdgeIX - Auckland",
+    "country": "NZ",
+    "city": "Auckland",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
     "id": "he_Hyper%20Group%20Internet%20Exchange",
     "name": "Hyper Group Internet Exchange",
     "country": "US",
@@ -3481,24 +3499,6 @@
     "region": "Europe",
     "url": "http://www.varnaix.net",
     "peeringlan": "2001:7f8:db::/64"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.180.190.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Auckland",
-    "name": "EdgeIX - Auckland",
-    "country": "NZ",
-    "city": "Auckland",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:11::/64"
   },
   {
     "id": "he_angonix",
@@ -4176,24 +4176,6 @@
     "peeringlan": "2001:504:90::/48"
   },
   {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "185.1.100.0/24"
-  },
-  {
-    "id": "he_ANIX",
-    "name": "ANIX",
-    "country": "AL",
-    "city": "Tirana",
-    "region": "Europe",
-    "url": "http://www.anix.al",
-    "peeringlan": "2001:7f8:bb::/48"
-  },
-  {
     "id": "he_ROPN-IX",
     "name": "ROPN-IX",
     "country": "RO",
@@ -4282,6 +4264,24 @@
     "region": "Europe",
     "url": "https://ixp-manager.aaix.at",
     "peeringlan": "2001:7f8:4a::/48"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "185.1.100.0/24"
+  },
+  {
+    "id": "he_ANIX",
+    "name": "ANIX",
+    "country": "AL",
+    "city": "Tirana",
+    "region": "Europe",
+    "url": "http://www.anix.al",
+    "peeringlan": "2001:7f8:bb::/48"
   },
   {
     "id": "he_NIXI%20Hyderabad",

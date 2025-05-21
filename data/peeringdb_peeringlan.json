@@ -21560,7 +21560,7 @@
     "country": "LB",
     "city": "Beirut",
     "region": "Middle East",
-    "url": "https://www.p.foundation/messages/Introducing_EdgeIXBeirut",
+    "url": "https://openix.ong",
     "peeringlan": "23.181.208.0/24"
   },
   {
@@ -21569,7 +21569,7 @@
     "country": "LB",
     "city": "Beirut",
     "region": "Middle East",
-    "url": "https://www.p.foundation/messages/Introducing_EdgeIXBeirut",
+    "url": "https://openix.ong",
     "peeringlan": "2620:98:e00e::/64"
   },
   {
@@ -21577,8 +21577,17 @@
     "name": "TJ-IX",
     "country": "TJ",
     "city": "Dushnabe",
-    "region": "Middle East",
+    "region": "Asia Pacific",
     "url": "https://tj-ix.tj/",
     "peeringlan": "91.218.161.0/24"
+  },
+  {
+    "id": "pdb_4730",
+    "name": "LOCIX",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "206.83.45.0/24"
   }
 ]

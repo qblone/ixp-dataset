@@ -3591,24 +3591,6 @@
     "peeringlan": "2001:7f8:20:301::/64"
   },
   {
-    "id": "pdb_355",
-    "name": "QIX Montreal",
-    "country": "CA",
-    "city": "Montreal",
-    "region": "North America",
-    "url": "https://qix.ca/en/",
-    "peeringlan": "198.179.18.0/24"
-  },
-  {
-    "id": "pdb_355",
-    "name": "QIX Montreal",
-    "country": "CA",
-    "city": "Montreal",
-    "region": "North America",
-    "url": "https://qix.ca/en/",
-    "peeringlan": "2001:504:2d::18:0/111"
-  },
-  {
     "id": "pdb_357",
     "name": "SOAX",
     "country": "US",

@@ -21597,7 +21597,16 @@
     "city": "Dushnabe",
     "region": "Asia Pacific",
     "url": "https://tj-ix.tj/",
-    "peeringlan": "91.218.161.0/24"
+    "peeringlan": "194.117.50.0/26"
+  },
+  {
+    "id": "pdb_4728",
+    "name": "TJ-IX",
+    "country": "TJ",
+    "city": "Dushnabe",
+    "region": "Asia Pacific",
+    "url": "https://tj-ix.tj/",
+    "peeringlan": "5.189.253.0/24"
   },
   {
     "id": "pdb_4730",
@@ -21898,7 +21907,7 @@
   },
   {
     "id": "pdb_4775",
-    "name": "NVL--IX",
+    "name": "NVL-IX",
     "country": "GR",
     "city": "Athens",
     "region": "Europe",
@@ -21907,11 +21916,56 @@
   },
   {
     "id": "pdb_4775",
-    "name": "NVL--IX",
+    "name": "NVL-IX",
     "country": "GR",
     "city": "Athens",
     "region": "Europe",
     "url": "https://nvl-ix.com",
     "peeringlan": "2001:7f8:37:21::/64"
+  },
+  {
+    "id": "pdb_4776",
+    "name": "CXC Surabaya",
+    "country": "ID",
+    "city": "Surabaya",
+    "region": "Asia Pacific",
+    "url": "https://cloudxchange.id",
+    "peeringlan": "103.255.122.0/23"
+  },
+  {
+    "id": "pdb_4776",
+    "name": "CXC Surabaya",
+    "country": "ID",
+    "city": "Surabaya",
+    "region": "Asia Pacific",
+    "url": "https://cloudxchange.id",
+    "peeringlan": "2400:9c80:4:130::/64"
+  },
+  {
+    "id": "pdb_4777",
+    "name": "AKIX - TFU",
+    "country": "CN",
+    "city": "ChengDu",
+    "region": "Asia Pacific",
+    "url": "https://ixpm.akae.re/en/TFU",
+    "peeringlan": "2a14:67c1:a080:1::/64"
+  },
+  {
+    "id": "pdb_4778",
+    "name": "SONIA IX",
+    "country": "ID",
+    "city": "Sidoarjo",
+    "region": "Asia Pacific",
+    "url": "https://www.sonia.net.id",
+    "peeringlan": "103.152.21.128/25"
+  },
+  {
+    "id": "pdb_4778",
+    "name": "SONIA IX",
+    "country": "ID",
+    "city": "Sidoarjo",
+    "region": "Asia Pacific",
+    "url": "https://www.sonia.net.id",
+    "peeringlan": "103.44.19.80/28"
   }
 ]

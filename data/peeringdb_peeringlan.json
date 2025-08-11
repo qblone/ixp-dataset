@@ -2991,7 +2991,7 @@
     "id": "pdb_270",
     "name": "InterLAN-IX-InterLAN Peering Network",
     "country": "RO",
-    "city": "Bucharest, Arad, Cluj-Napoca, Constanta, Craiova, Iasi, Suceava, Timisoara",
+    "city": "Bucharest, Arad, Cluj-Napoca, Constanta, Craiova, Iasi, Suceava, Targu Secuiesc, Timisoara",
     "region": "Europe",
     "url": "https://www.interlan.ro/en/",
     "peeringlan": "86.104.125.0/24"
@@ -3000,7 +3000,7 @@
     "id": "pdb_270",
     "name": "InterLAN-IX-InterLAN Peering Network",
     "country": "RO",
-    "city": "Bucharest, Arad, Cluj-Napoca, Constanta, Craiova, Iasi, Suceava, Timisoara",
+    "city": "Bucharest, Arad, Cluj-Napoca, Constanta, Craiova, Iasi, Suceava, Targu Secuiesc, Timisoara",
     "region": "Europe",
     "url": "https://www.interlan.ro/en/",
     "peeringlan": "2001:7f8:64:225::/64"
@@ -21681,15 +21681,6 @@
     "peeringlan": "103.200.116.0/24"
   },
   {
-    "id": "pdb_4757",
-    "name": "Cambodian Network Exchange (CNX)",
-    "country": "KH",
-    "city": "Phnom Penh",
-    "region": "Asia Pacific",
-    "url": "https://cnx.net.kh",
-    "peeringlan": "103.151.116.0/23"
-  },
-  {
     "id": "pdb_4761",
     "name": "PIT Paraguay",
     "country": "PY",
@@ -22050,31 +22041,13 @@
     "peeringlan": "192.115.48.0/21"
   },
   {
-    "id": "pdb_4786",
-    "name": "DOMINICANA INTERNET EXCHANGE, DOIX",
-    "country": "DO",
-    "city": "Santiago",
-    "region": "North America",
-    "url": "http://doix.do",
-    "peeringlan": "45.68.108.0/22"
-  },
-  {
-    "id": "pdb_4786",
-    "name": "DOMINICANA INTERNET EXCHANGE, DOIX",
-    "country": "DO",
-    "city": "Santiago",
-    "region": "North America",
-    "url": "http://doix.do",
-    "peeringlan": "2801:16d:f:ffff::/64"
-  },
-  {
-    "id": "pdb_4787",
-    "name": "PITER-IX Bishkek",
-    "country": "KG",
-    "city": "\u0411\u0438\u0448\u043a\u0435\u043a",
-    "region": "Asia Pacific",
-    "url": "https://piter-ix.kg/",
-    "peeringlan": "193.27.36.0/24"
+    "id": "pdb_4792",
+    "name": "WHY2025 IXP",
+    "country": "NL",
+    "city": "Geesterambacht",
+    "region": "Europe",
+    "url": "https://wiki.why2025.org/IXP",
+    "peeringlan": "2001:7f8:159:1312::/64"
   },
   {
     "id": "pdb_4793",
@@ -22084,5 +22057,41 @@
     "region": "South America",
     "url": "http://www.betinifibra.com.br",
     "peeringlan": "191.6.0.0/22"
+  },
+  {
+    "id": "pdb_4795",
+    "name": "MMIX Tachileik",
+    "country": "MM",
+    "city": "Tachileik",
+    "region": "Asia Pacific",
+    "url": "https://www.mmix.net.mm/tclpeering.php",
+    "peeringlan": "103.185.105.0/27"
+  },
+  {
+    "id": "pdb_4796",
+    "name": "CIX-NoVA",
+    "country": "US",
+    "city": "Ashburn, Reston",
+    "region": "North America",
+    "url": "https://communityix.org",
+    "peeringlan": "2001:504:40:120::/64"
+  },
+  {
+    "id": "pdb_4797",
+    "name": "MIX Thessaloniki",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.mix-it.net",
+    "peeringlan": "185.188.81.0/24"
+  },
+  {
+    "id": "pdb_4799",
+    "name": "LoLi-IX",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "https://network.lolinya.net",
+    "peeringlan": "2a14:7581:30ff::/64"
   }
 ]

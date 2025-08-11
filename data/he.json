@@ -1269,24 +1269,6 @@
     "peeringlan": "2001:43f8:6d2::/64"
   },
   {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "193.178.185.0/24"
-  },
-  {
-    "id": "he_BCIX",
-    "name": "BCIX",
-    "country": "DE",
-    "city": "Berlin",
-    "region": "Europe",
-    "url": "https://www.bcix.de/",
-    "peeringlan": "2001:7f8:19::/48"
-  },
-  {
     "id": "he_France-IX%20Marseille",
     "name": "France-IX Marseille",
     "country": "FR",
@@ -1303,6 +1285,24 @@
     "region": "Europe",
     "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
     "peeringlan": "2001:7f8:54:5::/64"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "193.178.185.0/24"
+  },
+  {
+    "id": "he_BCIX",
+    "name": "BCIX",
+    "country": "DE",
+    "city": "Berlin",
+    "region": "Europe",
+    "url": "https://www.bcix.de/",
+    "peeringlan": "2001:7f8:19::/48"
   },
   {
     "id": "he_PITER-IX%20Frankfurt",
@@ -1728,6 +1728,24 @@
     "peeringlan": "2001:7f8:73::/64"
   },
   {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "103.104.19.0/24"
+  },
+  {
+    "id": "he_GetaFIX",
+    "name": "GetaFIX",
+    "country": "PH",
+    "city": "Manila",
+    "region": "Asia Pacific",
+    "url": "https://getafix.ph/",
+    "peeringlan": "2401:fdc0::/64"
+  },
+  {
     "id": "he_STUIX",
     "name": "STUIX",
     "country": "TW",
@@ -1746,22 +1764,22 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "103.104.19.0/24"
+    "id": "he_IX%20Australia%20VIC",
+    "name": "IX Australia VIC",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "218.100.78.0/24"
   },
   {
-    "id": "he_GetaFIX",
-    "name": "GetaFIX",
-    "country": "PH",
-    "city": "Manila",
-    "region": "Asia Pacific",
-    "url": "https://getafix.ph/",
-    "peeringlan": "2401:fdc0::/64"
+    "id": "he_IX%20Australia%20VIC",
+    "name": "IX Australia VIC",
+    "country": "AU",
+    "city": "Melbourne",
+    "region": "Australia",
+    "url": "https://internet.asn.au",
+    "peeringlan": "2001:7fa:11:1::/64"
   },
   {
     "id": "he_MINAP",
@@ -1782,22 +1800,22 @@
     "peeringlan": "2001:7f8:c5::/48"
   },
   {
-    "id": "he_IX%20Australia%20VIC",
-    "name": "IX Australia VIC",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "218.100.78.0/24"
+    "id": "he_QIX%20Montreal",
+    "name": "QIX Montreal",
+    "country": "CA",
+    "city": "Montreal",
+    "region": "North America",
+    "url": "https://qix.ca/en/",
+    "peeringlan": "198.179.18.0/24"
   },
   {
-    "id": "he_IX%20Australia%20VIC",
-    "name": "IX Australia VIC",
-    "country": "AU",
-    "city": "Melbourne",
-    "region": "Australia",
-    "url": "https://internet.asn.au",
-    "peeringlan": "2001:7fa:11:1::/64"
+    "id": "he_QIX%20Montreal",
+    "name": "QIX Montreal",
+    "country": "CA",
+    "city": "Montreal",
+    "region": "North America",
+    "url": "https://qix.ca/en/",
+    "peeringlan": "2001:504:2d::/64"
   },
   {
     "id": "he_DINX",
@@ -1825,24 +1843,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.net/en/locations/jakarta",
     "peeringlan": "103.159.71.0/25"
-  },
-  {
-    "id": "he_QIX%20Montreal",
-    "name": "QIX Montreal",
-    "country": "CA",
-    "city": "Montreal",
-    "region": "North America",
-    "url": "https://qix.ca/en/",
-    "peeringlan": "198.179.18.0/24"
-  },
-  {
-    "id": "he_QIX%20Montreal",
-    "name": "QIX Montreal",
-    "country": "CA",
-    "city": "Montreal",
-    "region": "North America",
-    "url": "https://qix.ca/en/",
-    "peeringlan": "2001:504:2d::/64"
   },
   {
     "id": "he_YYCIX",
@@ -2151,6 +2151,33 @@
     "peeringlan": "2001:504:39::/64"
   },
   {
+    "id": "he_BNIX",
+    "name": "BNIX",
+    "country": "BE",
+    "city": "Brussels",
+    "region": "Europe",
+    "url": "https://www.bnix.net",
+    "peeringlan": "194.53.172.0/25"
+  },
+  {
+    "id": "he_BNIX",
+    "name": "BNIX",
+    "country": "BE",
+    "city": "Brussels",
+    "region": "Europe",
+    "url": "https://www.bnix.net",
+    "peeringlan": "2001:7f8:26::/64"
+  },
+  {
+    "id": "he_BNIX",
+    "name": "BNIX",
+    "country": "BE",
+    "city": "Brussels",
+    "region": "Europe",
+    "url": "https://www.bnix.net",
+    "peeringlan": "2001:7f8:26:8000::/64"
+  },
+  {
     "id": "he_WIX-NZ",
     "name": "WIX-NZ",
     "country": "NZ",
@@ -2203,33 +2230,6 @@
     "region": "North America",
     "url": "https://www.mass-ix.net",
     "peeringlan": "2001:504:47::/64"
-  },
-  {
-    "id": "he_BNIX",
-    "name": "BNIX",
-    "country": "BE",
-    "city": "Brussels",
-    "region": "Europe",
-    "url": "https://www.bnix.net",
-    "peeringlan": "194.53.172.0/25"
-  },
-  {
-    "id": "he_BNIX",
-    "name": "BNIX",
-    "country": "BE",
-    "city": "Brussels",
-    "region": "Europe",
-    "url": "https://www.bnix.net",
-    "peeringlan": "2001:7f8:26::/64"
-  },
-  {
-    "id": "he_BNIX",
-    "name": "BNIX",
-    "country": "BE",
-    "city": "Brussels",
-    "region": "Europe",
-    "url": "https://www.bnix.net",
-    "peeringlan": "2001:7f8:26:8000::/64"
   },
   {
     "id": "he_VSIX",
@@ -5706,6 +5706,24 @@
     "peeringlan": "2606:a980:0:a::/64"
   },
   {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "45.68.92.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Sao%20Paulo",
+    "name": "DE-CIX Sao Paulo",
+    "country": "BR",
+    "city": "Sao Paulo",
+    "region": "South America",
+    "url": "https://www.de-cix.net/en/locations/sao-paulo",
+    "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
     "id": "he_AMS-IX%20Caribbean",
     "name": "AMS-IX Caribbean",
     "country": "CW",
@@ -6273,24 +6291,6 @@
     "peeringlan": "2001:7f8:6c:61::/64"
   },
   {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "45.68.92.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Sao%20Paulo",
-    "name": "DE-CIX Sao Paulo",
-    "country": "BR",
-    "city": "Sao Paulo",
-    "region": "South America",
-    "url": "https://www.de-cix.net/en/locations/sao-paulo",
-    "peeringlan": "2801:81:c0:1::/64"
-  },
-  {
     "id": "he_GUYANIX",
     "name": "GUYANIX",
     "country": "GF",
@@ -6651,6 +6651,24 @@
     "peeringlan": "2405:aac0:22::/64"
   },
   {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "149.112.113.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Houston",
+    "name": "DE-CIX Houston",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "https://www.de-cix.net/en/locations/houston",
+    "peeringlan": "2001:504:13f::/64"
+  },
+  {
     "id": "he_IX-Denver",
     "name": "IX-Denver",
     "country": "US",
@@ -6694,24 +6712,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "2001:13C7:6016::/64"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "149.112.113.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Houston",
-    "name": "DE-CIX Houston",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "https://www.de-cix.net/en/locations/houston",
-    "peeringlan": "2001:504:13f::/64"
   },
   {
     "id": "he_NIXI%20Ahmedabad",

@@ -10953,6 +10953,24 @@
     "peeringlan": "2001:504:96::/64"
   },
   {
+    "id": "pdb_2585",
+    "name": "STLIX-Main",
+    "country": "US",
+    "city": "Saint Louis, MO",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "206.83.12.0/24"
+  },
+  {
+    "id": "pdb_2585",
+    "name": "STLIX-Main",
+    "country": "US",
+    "city": "Saint Louis, MO",
+    "region": "North America",
+    "url": "http://www.stlix.net",
+    "peeringlan": "2001:504:98::/64"
+  },
+  {
     "id": "pdb_2587",
     "name": "DE-CIX Delhi-DE-CIX Delhi Peering LAN",
     "country": "IN",
@@ -12085,6 +12103,24 @@
     "region": "North America",
     "url": "http://www.mus-ix.net/index.php",
     "peeringlan": "2607:f928:144::/64"
+  },
+  {
+    "id": "pdb_2835",
+    "name": "HOUIX-Main",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "206.83.136.0/24"
+  },
+  {
+    "id": "pdb_2835",
+    "name": "HOUIX-Main",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "2001:504:9e::/64"
   },
   {
     "id": "pdb_2836",
@@ -19119,7 +19155,7 @@
     "id": "pdb_4339",
     "name": "American IX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
     "country": "US",
-    "city": "United States",
+    "city": "Boston Springfield Syracuse Burlington Worcester",
     "region": "North America",
     "url": "https://american-ix.net",
     "peeringlan": "2001:504:136::/64"
@@ -19128,7 +19164,7 @@
     "id": "pdb_4339",
     "name": "American IX \u2588\u2588\u2592\u2592\u2592\u2605\u2605",
     "country": "US",
-    "city": "United States",
+    "city": "Boston Springfield Syracuse Burlington Worcester",
     "region": "North America",
     "url": "https://american-ix.net",
     "peeringlan": "23.167.200.0/24"
@@ -21794,8 +21830,17 @@
     "country": "IL",
     "city": "Multiple",
     "region": "Middle East",
-    "url": "https://www.iix.net.il/il-ix",
+    "url": "https://il-ix.net.il/",
     "peeringlan": "192.115.48.0/21"
+  },
+  {
+    "id": "pdb_4783",
+    "name": "IL-IX",
+    "country": "IL",
+    "city": "Multiple",
+    "region": "Middle East",
+    "url": "https://il-ix.net.il/",
+    "peeringlan": "2001:7f8:3b:100::/64"
   },
   {
     "id": "pdb_4792",
@@ -22138,23 +22183,5 @@
     "region": "North America",
     "url": "https://bgp.exchange",
     "peeringlan": "2401:2060:b109:87::/64"
-  },
-  {
-    "id": "pdb_4844",
-    "name": "Kyivstar PJSC",
-    "country": "UA",
-    "city": "Ukraine, Ivano-Frankivska oblast, Halych, 77100",
-    "region": "Europe",
-    "url": "https://ittak.net/",
-    "peeringlan": "93.170.122.0/24"
-  },
-  {
-    "id": "pdb_4850",
-    "name": "MandaIX",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "https://kyonix.com",
-    "peeringlan": "193.23.199.0/28"
   }
 ]

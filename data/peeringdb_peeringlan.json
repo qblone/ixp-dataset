@@ -16898,7 +16898,7 @@
     "country": "CO",
     "city": "Barranquilla",
     "region": "South America",
-    "url": "https://pitcolombia.net/normas-tecnicas-barranquilla-ix/",
+    "url": "https://www.pit.net",
     "peeringlan": "2801:1a:5800:141::/64"
   },
   {
@@ -16907,7 +16907,7 @@
     "country": "CO",
     "city": "Barranquilla",
     "region": "South America",
-    "url": "https://pitcolombia.net/normas-tecnicas-barranquilla-ix/",
+    "url": "https://www.pit.net",
     "peeringlan": "45.68.28.0/24"
   },
   {
@@ -19224,6 +19224,15 @@
     "peeringlan": "2406:840:eabf:2100::/64"
   },
   {
+    "id": "pdb_4348",
+    "name": "PIT - LATAM Interconnect",
+    "country": "US",
+    "city": "Miami",
+    "region": "North America",
+    "url": "https://www.pit.net",
+    "peeringlan": "2803:cd60:56ff::/64"
+  },
+  {
     "id": "pdb_4351",
     "name": "PIT AR",
     "country": "AR",
@@ -19600,15 +19609,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.net/en/locations/jakarta",
     "peeringlan": "2001:df5:7880::/64"
-  },
-  {
-    "id": "pdb_4411",
-    "name": "DE-CIX Jakarta",
-    "country": "ID",
-    "city": "Jakarta",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.net/en/locations/jakarta",
-    "peeringlan": "103.159.71.0/25"
   },
   {
     "id": "pdb_4411",
@@ -22183,5 +22183,14 @@
     "region": "North America",
     "url": "https://bgp.exchange",
     "peeringlan": "2401:2060:b109:87::/64"
+  },
+  {
+    "id": "pdb_4852",
+    "name": "Versija SIA",
+    "country": "LV",
+    "city": "Riga",
+    "region": "Europe",
+    "url": "https://www.vernet.lv/eng/",
+    "peeringlan": "194.8.8.0/24"
   }
 ]

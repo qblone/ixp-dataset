@@ -22219,5 +22219,50 @@
     "region": "Europe",
     "url": "https://www.vernet.lv/eng/",
     "peeringlan": "194.8.8.0/24"
+  },
+  {
+    "id": "pdb_4855",
+    "name": "Netnod Oslo BLUE -- MTU9K",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.netnod.se",
+    "peeringlan": "194.153.157.0/26"
+  },
+  {
+    "id": "pdb_4855",
+    "name": "Netnod Oslo BLUE -- MTU9K",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.netnod.se",
+    "peeringlan": "2001:7f8:d:500::/64"
+  },
+  {
+    "id": "pdb_4856",
+    "name": "Netnod Oslo GREEN -- MTU9K",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.netnod.se",
+    "peeringlan": "194.153.157.64/26"
+  },
+  {
+    "id": "pdb_4856",
+    "name": "Netnod Oslo GREEN -- MTU9K",
+    "country": "NO",
+    "city": "Oslo",
+    "region": "Europe",
+    "url": "http://www.netnod.se",
+    "peeringlan": "2001:7f8:d:501::/64"
+  },
+  {
+    "id": "pdb_4858",
+    "name": "Schleyer-IX",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.schleyer-ix.com",
+    "peeringlan": "2a09:54c3:a300::/64"
   }
 ]

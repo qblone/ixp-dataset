@@ -22264,5 +22264,23 @@
     "region": "Europe",
     "url": "https://www.schleyer-ix.com",
     "peeringlan": "2a09:54c3:a300::/64"
+  },
+  {
+    "id": "pdb_4859",
+    "name": "Yetocom",
+    "country": "AO",
+    "city": "Luanda",
+    "region": "Africa",
+    "url": "https://yetocom.co.ao/",
+    "peeringlan": "102.204.164.0/22"
+  },
+  {
+    "id": "pdb_4859",
+    "name": "Yetocom",
+    "country": "AO",
+    "city": "Luanda",
+    "region": "Africa",
+    "url": "https://yetocom.co.ao/",
+    "peeringlan": "2c0f:78c0::/64"
   }
 ]

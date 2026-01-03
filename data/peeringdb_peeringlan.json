@@ -19971,6 +19971,24 @@
     "peeringlan": "45.68.61.0/24"
   },
   {
+    "id": "pdb_4457",
+    "name": "GL-IX",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.glix.net",
+    "peeringlan": "194.153.158.0/26"
+  },
+  {
+    "id": "pdb_4457",
+    "name": "GL-IX",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.glix.net",
+    "peeringlan": "2001:7f8:89::/64"
+  },
+  {
     "id": "pdb_4458",
     "name": "IX CDE SOCIEDAD ANONIMA",
     "country": "PY",

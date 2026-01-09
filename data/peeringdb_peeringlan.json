@@ -9825,6 +9825,15 @@
     "city": "Astana",
     "region": "Asia Pacific",
     "url": "https://sts.kz/ru/toit",
+    "peeringlan": "2001:67c:9e8:a::/64"
+  },
+  {
+    "id": "pdb_2250",
+    "name": "KAZ-GOV-IX Astana-195.12.116.0/23",
+    "country": "KZ",
+    "city": "Astana",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/ru/toit",
     "peeringlan": "195.12.117.0/24"
   },
   {
@@ -9835,6 +9844,15 @@
     "region": "Asia Pacific",
     "url": "https://sts.kz/ru/toit",
     "peeringlan": "195.12.116.0/23"
+  },
+  {
+    "id": "pdb_2250",
+    "name": "KAZ-GOV-IX Astana-195.12.116.0/23",
+    "country": "KZ",
+    "city": "Astana",
+    "region": "Asia Pacific",
+    "url": "https://sts.kz/ru/toit",
+    "peeringlan": "195.12.116.0/24"
   },
   {
     "id": "pdb_2251",
@@ -22465,7 +22483,7 @@
   },
   {
     "id": "pdb_4915",
-    "name": "QAZ-GOV-IX Almaty",
+    "name": "KAZ-GOV-IX Almaty",
     "country": "KZ",
     "city": "Almaty",
     "region": "Asia Pacific",

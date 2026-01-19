@@ -1314,24 +1314,6 @@
     "peeringlan": "2001:7f8:19::/48"
   },
   {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
-    "peeringlan": "37.49.232.0/24"
-  },
-  {
-    "id": "he_France-IX%20Marseille",
-    "name": "France-IX Marseille",
-    "country": "FR",
-    "city": "Marseille",
-    "region": "Europe",
-    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
-    "peeringlan": "2001:7f8:54:5::/64"
-  },
-  {
     "id": "he_BIX.BG",
     "name": "BIX.BG",
     "country": "BG",
@@ -1348,6 +1330,24 @@
     "region": "Europe",
     "url": "https://www.bix.bg/",
     "peeringlan": "2001:7f8:58::/64"
+  },
+  {
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
+    "peeringlan": "37.49.232.0/24"
+  },
+  {
+    "id": "he_France-IX%20Marseille",
+    "name": "France-IX Marseille",
+    "country": "FR",
+    "city": "Marseille",
+    "region": "Europe",
+    "url": "https://www.franceix.net/en/infrastructure/our-exchange-points-in-france/france-ix-marseille/",
+    "peeringlan": "2001:7f8:54:5::/64"
   },
   {
     "id": "he_EdgeIX%20-%20Sydney",
@@ -2511,24 +2511,6 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "103.136.102.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Perth",
-    "name": "EdgeIX - Perth",
-    "country": "AU",
-    "city": "Perth",
-    "region": "Australia",
-    "url": "https://www.edgeix.net",
-    "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2545,6 +2527,24 @@
     "region": "Europe",
     "url": "http://www.pirix.ru",
     "peeringlan": "2001:7f8:82::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "103.136.102.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Perth",
+    "name": "EdgeIX - Perth",
+    "country": "AU",
+    "city": "Perth",
+    "region": "Australia",
+    "url": "https://www.edgeix.net",
+    "peeringlan": "2001:df0:680:3::/64"
   },
   {
     "id": "he_HOUIX",
@@ -3042,24 +3042,6 @@
     "peeringlan": "2a02:d10:80::/64"
   },
   {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "103.136.103.0/24"
-  },
-  {
-    "id": "he_EdgeIX%20-%20Brisbane",
-    "name": "EdgeIX - Brisbane",
-    "country": "AU",
-    "city": "Brisbane",
-    "region": "Australia",
-    "url": "http://www.edgeix.net",
-    "peeringlan": "2001:df0:680:4::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Auckland",
     "name": "EdgeIX - Auckland",
     "country": "NZ",
@@ -3076,6 +3058,24 @@
     "region": "Australia",
     "url": "http://www.edgeix.net",
     "peeringlan": "2001:df0:680:11::/64"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "103.136.103.0/24"
+  },
+  {
+    "id": "he_EdgeIX%20-%20Brisbane",
+    "name": "EdgeIX - Brisbane",
+    "country": "AU",
+    "city": "Brisbane",
+    "region": "Australia",
+    "url": "http://www.edgeix.net",
+    "peeringlan": "2001:df0:680:4::/64"
   },
   {
     "id": "he_DE-CIX%20Barcelona",
@@ -6336,6 +6336,33 @@
     "peeringlan": "2001:13C7:6015::/64"
   },
   {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "204.107.122.0/25"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2001:19e0:ffff::/64"
+  },
+  {
+    "id": "he_MKE-IX",
+    "name": "MKE-IX",
+    "country": "US",
+    "city": "Milwaukee",
+    "region": "North America",
+    "url": "http://www.mkeix.net",
+    "peeringlan": "2602:f616::/64"
+  },
+  {
     "id": "he_CABASE-DLC",
     "name": "CABASE-DLC",
     "country": "AR",
@@ -6469,33 +6496,6 @@
     "region": "South America",
     "url": "https://www.renater.fr/guyanix?lang=fr",
     "peeringlan": "194.57.235.0/24"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "204.107.122.0/25"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2001:19e0:ffff::/64"
-  },
-  {
-    "id": "he_MKE-IX",
-    "name": "MKE-IX",
-    "country": "US",
-    "city": "Milwaukee",
-    "region": "North America",
-    "url": "http://www.mkeix.net",
-    "peeringlan": "2602:f616::/64"
   },
   {
     "id": "he_IXPN%20Kano",

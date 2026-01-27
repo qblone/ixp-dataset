@@ -432,6 +432,24 @@
     "peeringlan": "2001:504:36::/64"
   },
   {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "193.25.180.0/23"
+  },
+  {
+    "id": "he_DTEL-IX",
+    "name": "DTEL-IX",
+    "country": "UA",
+    "city": "Kiev",
+    "region": "Europe",
+    "url": "https://dtel-ix.net/en/",
+    "peeringlan": "2001:7f8:63::/64"
+  },
+  {
     "id": "he_NAPAfrica%20IX%20Cape%20Town",
     "name": "NAPAfrica IX Cape Town",
     "country": "ZA",
@@ -457,24 +475,6 @@
     "region": "Africa",
     "url": "http://www.teraco.co.za",
     "peeringlan": "2001:43f8:6d1::/64"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "193.25.180.0/23"
-  },
-  {
-    "id": "he_DTEL-IX",
-    "name": "DTEL-IX",
-    "country": "UA",
-    "city": "Kiev",
-    "region": "Europe",
-    "url": "https://dtel-ix.net/en/",
-    "peeringlan": "2001:7f8:63::/64"
   },
   {
     "id": "he_Frys-IX",
@@ -2511,6 +2511,24 @@
     "peeringlan": "2001:7f8:2f::/64"
   },
   {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "206.83.136.0/24"
+  },
+  {
+    "id": "he_HOUIX",
+    "name": "HOUIX",
+    "country": "US",
+    "city": "Houston",
+    "region": "North America",
+    "url": "http://www.houix.net",
+    "peeringlan": "2001:504:9e::/64"
+  },
+  {
     "id": "he_PIRIX",
     "name": "PIRIX",
     "country": "RU",
@@ -2545,24 +2563,6 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
-  },
-  {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "206.83.136.0/24"
-  },
-  {
-    "id": "he_HOUIX",
-    "name": "HOUIX",
-    "country": "US",
-    "city": "Houston",
-    "region": "North America",
-    "url": "http://www.houix.net",
-    "peeringlan": "2001:504:9e::/64"
   },
   {
     "id": "he_NIXI%20Chennai",

@@ -603,6 +603,33 @@
     "peeringlan": "2001:b28:3ff::/64"
   },
   {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "185.1.58.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "185.1.170.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Dusseldorf",
+    "name": "DE-CIX Dusseldorf",
+    "country": "DE",
+    "city": "D\u00fcsseldorf",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/dusseldorf",
+    "peeringlan": "2001:7f8:9e::/64"
+  },
+  {
     "id": "he_KCIX",
     "name": "KCIX",
     "country": "US",
@@ -619,6 +646,60 @@
     "region": "North America",
     "url": "http://www.kcix.net/",
     "peeringlan": "2001:504:1B:1::/64"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.68.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "185.1.192.0/23"
+  },
+  {
+    "id": "he_DE-CIX%20Madrid",
+    "name": "DE-CIX Madrid",
+    "country": "ES",
+    "city": "Madrid",
+    "region": "Europe",
+    "url": "https://www.de-cix.net/locations/madrid/",
+    "peeringlan": "2001:7f8:a0::/64"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "193.201.28.0/23"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "2001:7f8:10::/64"
+  },
+  {
+    "id": "he_NaMeX",
+    "name": "NaMeX",
+    "country": "IT",
+    "city": "Rome",
+    "region": "Europe",
+    "url": "https://www.namex.it",
+    "peeringlan": "2001:7f8:10:b::/64"
   },
   {
     "id": "he_DE-CIX%20Munich",
@@ -666,6 +747,33 @@
     "peeringlan": "2001:504:1::/64"
   },
   {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "91.213.211.0/24"
+  },
+  {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "185.0.20.0/23"
+  },
+  {
+    "id": "he_Peering.cz",
+    "name": "Peering.cz",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.peering.cz",
+    "peeringlan": "2001:7f8:7f::/64"
+  },
+  {
     "id": "he_DE-CIX%20Hamburg",
     "name": "DE-CIX Hamburg",
     "country": "DE",
@@ -691,6 +799,42 @@
     "region": "Europe",
     "url": "https://www.de-cix.net/locations/hamburg",
     "peeringlan": "2001:7f8:3d::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:380:60::/80"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3::/64"
+  },
+  {
+    "id": "he_BIX%20Jakarta",
+    "name": "BIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "http://bix.id",
+    "peeringlan": "2001:de8:11:3806:60::/80"
+  },
+  {
+    "id": "he_PITER-IX%20Helsinki",
+    "name": "PITER-IX Helsinki",
+    "country": "FI",
+    "city": "Helsinki",
+    "region": "Europe",
+    "url": "http://www.piter-ix.eu",
+    "peeringlan": "193.27.37.0/24"
   },
   {
     "id": "he_UA-IX",
@@ -727,6 +871,78 @@
     "region": "Australia",
     "url": "https://internet.asn.au",
     "peeringlan": "2001:7fa:11:4::/64"
+  },
+  {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
+    "name": "Digital Realty | Telx Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "198.32.132.0/24"
+  },
+  {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
+    "name": "Digital Realty | Telx Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "206.126.110.0/23"
+  },
+  {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
+    "name": "Digital Realty | Telx Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "2001:478:132::/64"
+  },
+  {
+    "id": "he_Digital%20Realty%20%7C%20Telx%20Atlanta",
+    "name": "Digital Realty | Telx Atlanta",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "https://ix.digitalrealty.com",
+    "peeringlan": "2001:504:17:110::/64"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "194.50.100.0/24"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "91.210.16.0/22"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "2001:7f8:14::/64"
+  },
+  {
+    "id": "he_NIX.CZ",
+    "name": "NIX.CZ",
+    "country": "CZ",
+    "city": "Prague",
+    "region": "Europe",
+    "url": "http://www.nix.cz/",
+    "peeringlan": "2001:7f8:14:5ec::/64"
   },
   {
     "id": "he_Thinx",
@@ -981,6 +1197,24 @@
     "peeringlan": "2001:7F8:30::/64"
   },
   {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "103.159.71.0/25"
+  },
+  {
+    "id": "he_DE-CIX%20Jakarta",
+    "name": "DE-CIX Jakarta",
+    "country": "ID",
+    "city": "Jakarta",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.net/en/locations/jakarta",
+    "peeringlan": "49.213.56.0/23"
+  },
+  {
     "id": "he_Eurasia%20Peering%20IX",
     "name": "Eurasia Peering IX",
     "country": "RU",
@@ -1015,6 +1249,24 @@
     "region": "Europe",
     "url": "http://www.w-ix.ru",
     "peeringlan": "2a00:1b30::/64"
+  },
+  {
+    "id": "he_InterLAN",
+    "name": "InterLAN",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://www.interlan.ro/en/",
+    "peeringlan": "86.104.125.0/24"
+  },
+  {
+    "id": "he_InterLAN",
+    "name": "InterLAN",
+    "country": "RO",
+    "city": "Bucharest",
+    "region": "Europe",
+    "url": "https://www.interlan.ro/en/",
+    "peeringlan": "2001:7f8:64:225::/64"
   },
   {
     "id": "he_NAPAfrica%20IX%20Durban",
@@ -1206,6 +1458,24 @@
     "peeringlan": "2a0f:5707:ffe3::/64"
   },
   {
+    "id": "he_BIX%20Budapest",
+    "name": "BIX Budapest",
+    "country": "HU",
+    "city": "Budapest",
+    "region": "Europe",
+    "url": "https://bix.hu/en",
+    "peeringlan": "193.188.137.0/24"
+  },
+  {
+    "id": "he_BIX%20Budapest",
+    "name": "BIX Budapest",
+    "country": "HU",
+    "city": "Budapest",
+    "region": "Europe",
+    "url": "https://bix.hu/en",
+    "peeringlan": "2001:7f8:35::/64"
+  },
+  {
     "id": "he_DE-CIX%20Marseille",
     "name": "DE-CIX Marseille",
     "country": "FR",
@@ -1242,22 +1512,13 @@
     "peeringlan": "2602:fed2:fff:ffff::/64"
   },
   {
-    "id": "he_BIX%20Budapest",
-    "name": "BIX Budapest",
-    "country": "HU",
-    "city": "Budapest",
-    "region": "Europe",
-    "url": "https://bix.hu/en",
-    "peeringlan": "193.188.137.0/24"
-  },
-  {
-    "id": "he_BIX%20Budapest",
-    "name": "BIX Budapest",
-    "country": "HU",
-    "city": "Budapest",
-    "region": "Europe",
-    "url": "https://bix.hu/en",
-    "peeringlan": "2001:7f8:35::/64"
+    "id": "he_UNMETERED%20Exchange",
+    "name": "UNMETERED Exchange",
+    "country": "CA",
+    "city": "Vancouver",
+    "region": "North America",
+    "url": "http://unmetered.exchange",
+    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_JPNAP%20Osaka",
@@ -1285,15 +1546,6 @@
     "region": "Asia Pacific",
     "url": "https://www.jpnap.net/en/",
     "peeringlan": "2001:7fa:7:2::/64"
-  },
-  {
-    "id": "he_UNMETERED%20Exchange",
-    "name": "UNMETERED Exchange",
-    "country": "CA",
-    "city": "Vancouver",
-    "region": "North America",
-    "url": "http://unmetered.exchange",
-    "peeringlan": "2602:ffb1:200::/48"
   },
   {
     "id": "he_TOP-IX",
@@ -1917,24 +2169,6 @@
     "peeringlan": "2001:7f8:ac:142::/64"
   },
   {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "185.1.215.0/24"
-  },
-  {
-    "id": "he_SONIX",
-    "name": "SONIX",
-    "country": "SE",
-    "city": "Stockholm",
-    "region": "Europe",
-    "url": "https://sonix.network",
-    "peeringlan": "2001:7f8:117::/64"
-  },
-  {
     "id": "he_Giganet%20IXN%20Warsaw",
     "name": "Giganet IXN Warsaw",
     "country": "PL",
@@ -2050,6 +2284,24 @@
     "region": "Europe",
     "url": "http://www.balt-ix.lt",
     "peeringlan": "2001:1ab8:8486::/64"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "185.1.215.0/24"
+  },
+  {
+    "id": "he_SONIX",
+    "name": "SONIX",
+    "country": "SE",
+    "city": "Stockholm",
+    "region": "Europe",
+    "url": "https://sonix.network",
+    "peeringlan": "2001:7f8:117::/64"
   },
   {
     "id": "he_VANIX",
@@ -4455,24 +4707,6 @@
     "peeringlan": "2001:7f8:140::/64"
   },
   {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "206.53.173.0/25"
-  },
-  {
-    "id": "he_MegaIX%20New%20York",
-    "name": "MegaIX New York",
-    "country": "US",
-    "city": "New York",
-    "region": "North America",
-    "url": "https://megaport.com",
-    "peeringlan": "2606:a980:0:2::/64"
-  },
-  {
     "id": "he_MegaIX%20Adelaide",
     "name": "MegaIX Adelaide",
     "country": "AU",
@@ -4579,6 +4813,24 @@
     "region": "Asia Pacific",
     "url": "https://www.fox.net.tw/en",
     "peeringlan": "2001:e10:5c00:21::/112"
+  },
+  {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "206.53.173.0/25"
+  },
+  {
+    "id": "he_MegaIX%20New%20York",
+    "name": "MegaIX New York",
+    "country": "US",
+    "city": "New York",
+    "region": "North America",
+    "url": "https://megaport.com",
+    "peeringlan": "2606:a980:0:2::/64"
   },
   {
     "id": "he_NIXVAL",

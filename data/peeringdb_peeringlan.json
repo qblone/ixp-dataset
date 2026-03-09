@@ -21213,24 +21213,6 @@
     "peeringlan": "194.102.103.0/24"
   },
   {
-    "id": "pdb_4702",
-    "name": "LN-IX",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://ix.lendnodes.cloud",
-    "peeringlan": "2a12:bec4:1572:1::/64"
-  },
-  {
-    "id": "pdb_4702",
-    "name": "LN-IX",
-    "country": "DE",
-    "city": "Frankfurt",
-    "region": "Europe",
-    "url": "http://ix.lendnodes.cloud",
-    "peeringlan": "193.23.220.192/28"
-  },
-  {
     "id": "pdb_4705",
     "name": "nine",
     "country": "FR",
@@ -23011,5 +22993,77 @@
     "region": "Asia Pacific",
     "url": "https://gentong-ix.com/",
     "peeringlan": "103.68.212.144/28"
+  },
+  {
+    "id": "pdb_4968",
+    "name": "EuroRhine-IX",
+    "country": "FR",
+    "city": "Strasbourg",
+    "region": "Europe",
+    "url": "https://www.er-ix.net",
+    "peeringlan": "195.13.37.128/26"
+  },
+  {
+    "id": "pdb_4970",
+    "name": "SSIX",
+    "country": "IT",
+    "city": "Olbia",
+    "region": "Europe",
+    "url": "https://www.ssix.it",
+    "peeringlan": "195.60.84.128/26"
+  },
+  {
+    "id": "pdb_4971",
+    "name": "Skys-IX",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://sfix.lytrix.fun",
+    "peeringlan": "2a06:1283:8b67::/64"
+  },
+  {
+    "id": "pdb_4971",
+    "name": "Skys-IX",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://sfix.lytrix.fun",
+    "peeringlan": "2a06:1283:8b67:1::/64"
+  },
+  {
+    "id": "pdb_4971",
+    "name": "Skys-IX",
+    "country": "DE",
+    "city": "Frankfurt",
+    "region": "Europe",
+    "url": "https://sfix.lytrix.fun",
+    "peeringlan": "2a06:1283:8b67:2::/64"
+  },
+  {
+    "id": "pdb_4972",
+    "name": "PT RINJANI CITRA SOLUSI",
+    "country": "ID",
+    "city": "Selong",
+    "region": "Asia Pacific",
+    "url": "https://rinjani.net.id",
+    "peeringlan": "103.144.144.0/23"
+  },
+  {
+    "id": "pdb_4972",
+    "name": "PT RINJANI CITRA SOLUSI",
+    "country": "ID",
+    "city": "Selong",
+    "region": "Asia Pacific",
+    "url": "https://rinjani.net.id",
+    "peeringlan": "2405:6ec0::/64"
+  },
+  {
+    "id": "pdb_4973",
+    "name": "Kawaii-IX",
+    "country": "NL",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://kawaii-ix.net",
+    "peeringlan": "2602:f93b:1a35:1311::/64"
   }
 ]

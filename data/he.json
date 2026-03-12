@@ -513,24 +513,6 @@
     "peeringlan": "2001:7fa:7:1::/64"
   },
   {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.166.0/23"
-  },
-  {
-    "id": "he_LocIX%20Frankfurt",
-    "name": "LocIX Frankfurt",
-    "country": "DE",
-    "city": "Frankfurt am Main",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "2001:7f8:f2:e1::/64"
-  },
-  {
     "id": "he_TPIX-TW",
     "name": "TPIX-TW",
     "country": "TW",
@@ -547,6 +529,24 @@
     "region": "Asia Pacific",
     "url": "http://www.tpix.net.tw/",
     "peeringlan": "2406:d400:1:133:203:163:222::/111"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.166.0/23"
+  },
+  {
+    "id": "he_LocIX%20Frankfurt",
+    "name": "LocIX Frankfurt",
+    "country": "DE",
+    "city": "Frankfurt am Main",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "2001:7f8:f2:e1::/64"
   },
   {
     "id": "he_SwissIX",
@@ -963,6 +963,15 @@
     "peeringlan": "2001:504:17:110::/64"
   },
   {
+    "id": "he_LocIX%20Dusseldorf",
+    "name": "LocIX Dusseldorf",
+    "country": "DE",
+    "city": "Dusseldorf",
+    "region": "Europe",
+    "url": "https://locix.online",
+    "peeringlan": "185.1.155.0/24"
+  },
+  {
     "id": "he_FL-IX",
     "name": "FL-IX",
     "country": "US",
@@ -979,15 +988,6 @@
     "region": "North America",
     "url": "http://www.communityix.org/index.php/about-fl-ix/",
     "peeringlan": "2001:504:40:108::/64"
-  },
-  {
-    "id": "he_LocIX%20Dusseldorf",
-    "name": "LocIX Dusseldorf",
-    "country": "DE",
-    "city": "Dusseldorf",
-    "region": "Europe",
-    "url": "https://locix.online",
-    "peeringlan": "185.1.155.0/24"
   },
   {
     "id": "he_JINX",
@@ -2448,6 +2448,24 @@
     "peeringlan": "2001:df0:680:6::/64"
   },
   {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "185.1.14.0/24"
+  },
+  {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "2001:7f8:12e::/64"
+  },
+  {
     "id": "he_DE-CIX%20Istanbul",
     "name": "DE-CIX Istanbul",
     "country": "TR",
@@ -2493,24 +2511,6 @@
     "peeringlan": "2001:7f8:12:1::/64"
   },
   {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.six.sk/",
-    "peeringlan": "192.108.148.0/24"
-  },
-  {
-    "id": "he_SIX.SK",
-    "name": "SIX.SK",
-    "country": "SK",
-    "city": "Bratislava",
-    "region": "Europe",
-    "url": "https://www.six.sk/",
-    "peeringlan": "2001:7f8:2f::/64"
-  },
-  {
     "id": "he_EdgeIX%20-%20Perth",
     "name": "EdgeIX - Perth",
     "country": "AU",
@@ -2527,6 +2527,24 @@
     "region": "Australia",
     "url": "https://www.edgeix.net",
     "peeringlan": "2001:df0:680:3::/64"
+  },
+  {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.six.sk/",
+    "peeringlan": "192.108.148.0/24"
+  },
+  {
+    "id": "he_SIX.SK",
+    "name": "SIX.SK",
+    "country": "SK",
+    "city": "Bratislava",
+    "region": "Europe",
+    "url": "https://www.six.sk/",
+    "peeringlan": "2001:7f8:2f::/64"
   },
   {
     "id": "he_QCIX",
@@ -3294,6 +3312,24 @@
     "peeringlan": "2001:7f8:7a::/64"
   },
   {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
+  },
+  {
     "id": "he_SVAO-IX",
     "name": "SVAO-IX",
     "country": "RU",
@@ -3319,24 +3355,6 @@
     "region": "Africa",
     "url": "https://www.linx.net",
     "peeringlan": "2001:43f8:16d0::/64"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Odesa",
@@ -4959,6 +4977,24 @@
     "peeringlan": "2001:7f8:111:42::/64"
   },
   {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "206.53.206.128/25"
+  },
+  {
+    "id": "he_MegaIX%20Bay%20Area",
+    "name": "MegaIX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "http://megaport.com",
+    "peeringlan": "2606:a980:0:e::/64"
+  },
+  {
     "id": "he_MidWest-IX%20-%20St.%20Louis",
     "name": "MidWest-IX - St. Louis",
     "country": "US",
@@ -5056,24 +5092,6 @@
     "region": "Europe",
     "url": "https://giganet.ua/uk",
     "peeringlan": "2001:7f8:6c:60::/64"
-  },
-  {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "206.53.206.128/25"
-  },
-  {
-    "id": "he_MegaIX%20Bay%20Area",
-    "name": "MegaIX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "http://megaport.com",
-    "peeringlan": "2606:a980:0:e::/64"
   },
   {
     "id": "he_IXOR",
@@ -5526,24 +5544,6 @@
     "peeringlan": "2a00:8422:ae5::/64"
   },
   {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "206.41.106.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Bay%20Area",
-    "name": "AMS-IX Bay Area",
-    "country": "US",
-    "city": "San Francisco",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/bay",
-    "peeringlan": "2001:504:3d:1::/64"
-  },
-  {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Phoenix",
     "name": "Digital Realty | Telx Phoenix",
     "country": "US",
@@ -5704,24 +5704,6 @@
     "region": "Asia Pacific",
     "url": "https://www.de-cix.in/",
     "peeringlan": "2400:d180:72::/64"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "206.108.115.0/24"
-  },
-  {
-    "id": "he_AMS-IX%20Chicago",
-    "name": "AMS-IX Chicago",
-    "country": "US",
-    "city": "Chicago",
-    "region": "North America",
-    "url": "https://www.ams-ix.net/chi",
-    "peeringlan": "2001:504:38:1::/64"
   },
   {
     "id": "he_ULN-IX",
@@ -6336,6 +6318,24 @@
     "peeringlan": "2001:504:13f::/64"
   },
   {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "206.108.115.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Chicago",
+    "name": "AMS-IX Chicago",
+    "country": "US",
+    "city": "Chicago",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/chi",
+    "peeringlan": "2001:504:38:1::/64"
+  },
+  {
     "id": "he_Ruhr-CIX",
     "name": "Ruhr-CIX",
     "country": "DE",
@@ -6577,6 +6577,24 @@
     "region": "Europe",
     "url": "https://www.mix-it.net",
     "peeringlan": "2001:7f8:101:17::/64"
+  },
+  {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "206.41.106.0/24"
+  },
+  {
+    "id": "he_AMS-IX%20Bay%20Area",
+    "name": "AMS-IX Bay Area",
+    "country": "US",
+    "city": "San Francisco",
+    "region": "North America",
+    "url": "https://www.ams-ix.net/bay",
+    "peeringlan": "2001:504:3d:1::/64"
   },
   {
     "id": "he_GUYANIX",

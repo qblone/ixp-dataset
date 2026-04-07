@@ -207,6 +207,15 @@
     "peeringlan": "2001:678:3ac::/48"
   },
   {
+    "id": "he_PITER-IX%20Moscow",
+    "name": "PITER-IX Moscow",
+    "country": "RU",
+    "city": "Moscow",
+    "region": "Europe",
+    "url": "https://piter-ix.ru",
+    "peeringlan": "185.0.12.0/22"
+  },
+  {
     "id": "he_KleyReX",
     "name": "KleyReX",
     "country": "DE",
@@ -223,15 +232,6 @@
     "region": "Europe",
     "url": "https://www.kleyrex.net/",
     "peeringlan": "2001:7f8:33::/48"
-  },
-  {
-    "id": "he_PITER-IX%20Moscow",
-    "name": "PITER-IX Moscow",
-    "country": "RU",
-    "city": "Moscow",
-    "region": "Europe",
-    "url": "https://piter-ix.ru",
-    "peeringlan": "185.0.12.0/22"
   },
   {
     "id": "he_DE-CIX%20Mumbai",
@@ -1926,6 +1926,24 @@
     "peeringlan": "2a05:5840:0:ffff::/64"
   },
   {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "185.1.14.0/24"
+  },
+  {
+    "id": "he_nine-ix",
+    "name": "nine-ix",
+    "country": "FR",
+    "city": "Amsterdam",
+    "region": "Europe",
+    "url": "https://nine-ix.net/",
+    "peeringlan": "2001:7f8:12e::/64"
+  },
+  {
     "id": "he_DE-CIX%20Delhi",
     "name": "DE-CIX Delhi",
     "country": "IN",
@@ -2014,24 +2032,6 @@
     "region": "Australia",
     "url": "http://ape.nzix.net/",
     "peeringlan": "2001:7fa:4:c0cb::/64"
-  },
-  {
-    "id": "he_nine-ix",
-    "name": "nine-ix",
-    "country": "FR",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://nine-ix.net/",
-    "peeringlan": "185.1.14.0/24"
-  },
-  {
-    "id": "he_nine-ix",
-    "name": "nine-ix",
-    "country": "FR",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://nine-ix.net/",
-    "peeringlan": "2001:7f8:12e::/64"
   },
   {
     "id": "he_B-IX%20Balkans",
@@ -5562,6 +5562,33 @@
     "peeringlan": "2a00:8422:ae5::/64"
   },
   {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "103.184.198.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "103.83.68.0/24"
+  },
+  {
+    "id": "he_DE-CIX%20Hyderabad",
+    "name": "DE-CIX Hyderabad",
+    "country": "IN",
+    "city": "Hyderabad",
+    "region": "Asia Pacific",
+    "url": "https://www.de-cix.in/",
+    "peeringlan": "2400:d180:72::/64"
+  },
+  {
     "id": "he_Digital%20Realty%20%7C%20Telx%20Phoenix",
     "name": "Digital Realty | Telx Phoenix",
     "country": "US",
@@ -5713,33 +5740,6 @@
     "region": "South America",
     "url": "http://www.cabase.org.ar",
     "peeringlan": "201.182.132.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.184.198.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "103.83.68.0/24"
-  },
-  {
-    "id": "he_DE-CIX%20Hyderabad",
-    "name": "DE-CIX Hyderabad",
-    "country": "IN",
-    "city": "Hyderabad",
-    "region": "Asia Pacific",
-    "url": "https://www.de-cix.in/",
-    "peeringlan": "2400:d180:72::/64"
   },
   {
     "id": "he_DE-CIX%20Rio%20de%20Janeiro",

@@ -19800,6 +19800,24 @@
     "peeringlan": "45.68.61.0/24"
   },
   {
+    "id": "pdb_4454",
+    "name": "PIT DOMINICANO",
+    "country": "DO",
+    "city": "Santiago",
+    "region": "North America",
+    "url": "https://pitdominicano.com",
+    "peeringlan": "45.68.106.0/24"
+  },
+  {
+    "id": "pdb_4454",
+    "name": "PIT DOMINICANO",
+    "country": "DO",
+    "city": "Santiago",
+    "region": "North America",
+    "url": "https://pitdominicano.com",
+    "peeringlan": "45.68.107.0/24"
+  },
+  {
     "id": "pdb_4457",
     "name": "GL-IX",
     "country": "DE",

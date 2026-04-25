@@ -864,24 +864,6 @@
     "peeringlan": "193.27.37.0/24"
   },
   {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "212.91.0.0/22"
-  },
-  {
-    "id": "he_Thinx",
-    "name": "Thinx",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "http://thinx.pl",
-    "peeringlan": "2001:7f8:60::/48"
-  },
-  {
     "id": "he_NIX.CZ",
     "name": "NIX.CZ",
     "country": "CZ",
@@ -916,6 +898,24 @@
     "region": "Europe",
     "url": "http://www.nix.cz/",
     "peeringlan": "2001:7f8:14:5ec::/64"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "212.91.0.0/22"
+  },
+  {
+    "id": "he_Thinx",
+    "name": "Thinx",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "http://thinx.pl",
+    "peeringlan": "2001:7f8:60::/48"
   },
   {
     "id": "he_IX%20Australia%20NSW",
@@ -4428,6 +4428,24 @@
     "peeringlan": "2806:424::/64"
   },
   {
+    "id": "he_1-PL",
+    "name": "1-PL",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1pl",
+    "peeringlan": "194.246.39.0/26"
+  },
+  {
+    "id": "he_1-PL",
+    "name": "1-PL",
+    "country": "PL",
+    "city": "Warsaw",
+    "region": "Europe",
+    "url": "https://1-ix.eu/1pl",
+    "peeringlan": "2001:7f8:16e::/64"
+  },
+  {
     "id": "he_AAIX",
     "name": "AAIX",
     "country": "AT",
@@ -4480,24 +4498,6 @@
     "region": "North America",
     "url": "http://yxeix.ca",
     "peeringlan": "2001:504:69::/48"
-  },
-  {
-    "id": "he_1-PL",
-    "name": "1-PL",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "https://1-ix.eu/1pl",
-    "peeringlan": "194.246.39.0/26"
-  },
-  {
-    "id": "he_1-PL",
-    "name": "1-PL",
-    "country": "PL",
-    "city": "Warsaw",
-    "region": "Europe",
-    "url": "https://1-ix.eu/1pl",
-    "peeringlan": "2001:7f8:16e::/64"
   },
   {
     "id": "he_IX%20Leeds",

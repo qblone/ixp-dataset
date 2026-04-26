@@ -1710,6 +1710,24 @@
     "peeringlan": "2001:7f8:14d::/64"
   },
   {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "206.71.12.0/24"
+  },
+  {
+    "id": "he_CIX-ATL",
+    "name": "CIX-ATL",
+    "country": "US",
+    "city": "Atlanta",
+    "region": "North America",
+    "url": "http://www.communityix.org",
+    "peeringlan": "2001:504:40:12::/64"
+  },
+  {
     "id": "he_INEX",
     "name": "INEX",
     "country": "IE",
@@ -1798,24 +1816,6 @@
     "region": "Europe",
     "url": "https://www.minap.it/",
     "peeringlan": "2001:7f8:c5::/48"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "206.71.12.0/24"
-  },
-  {
-    "id": "he_CIX-ATL",
-    "name": "CIX-ATL",
-    "country": "US",
-    "city": "Atlanta",
-    "region": "North America",
-    "url": "http://www.communityix.org",
-    "peeringlan": "2001:504:40:12::/64"
   },
   {
     "id": "he_IX%20Australia%20VIC",
@@ -3240,15 +3240,6 @@
     "peeringlan": "2001:7f8:28::/48"
   },
   {
-    "id": "he_NSPIXP6",
-    "name": "NSPIXP6",
-    "country": "JP",
-    "city": "Tokyo",
-    "region": "Asia Pacific",
-    "url": "http://www.wide.ad.jp/nspixp6/",
-    "peeringlan": "2001:200:0:1800::/64"
-  },
-  {
     "id": "he_DE-CIX%20Sao%20Paulo",
     "name": "DE-CIX Sao Paulo",
     "country": "BR",
@@ -3265,6 +3256,15 @@
     "region": "South America",
     "url": "https://www.de-cix.net/en/locations/sao-paulo",
     "peeringlan": "2801:81:c0:1::/64"
+  },
+  {
+    "id": "he_NSPIXP6",
+    "name": "NSPIXP6",
+    "country": "JP",
+    "city": "Tokyo",
+    "region": "Asia Pacific",
+    "url": "http://www.wide.ad.jp/nspixp6/",
+    "peeringlan": "2001:200:0:1800::/64"
   },
   {
     "id": "he_DIX",
@@ -3301,6 +3301,24 @@
     "region": "Europe",
     "url": "http://www.dix.dk/",
     "peeringlan": "2001:7F8:1F::/48"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "185.0.28.0/24"
+  },
+  {
+    "id": "he_NetIX%20Greece",
+    "name": "NetIX Greece",
+    "country": "GR",
+    "city": "Thessaloniki",
+    "region": "Europe",
+    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
+    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_LL-IX",
@@ -3355,24 +3373,6 @@
     "region": "Europe",
     "url": "https://www.ll-ix.com",
     "peeringlan": "2a04:bc40:1dc5:3::/64"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "185.0.28.0/24"
-  },
-  {
-    "id": "he_NetIX%20Greece",
-    "name": "NetIX Greece",
-    "country": "GR",
-    "city": "Thessaloniki",
-    "region": "Europe",
-    "url": "https://www.netix.net/peering-services/netixs-regional-ixps",
-    "peeringlan": "2001:7f8:148::/64"
   },
   {
     "id": "he_Giganet%20IXN%20Odesa",
@@ -4221,6 +4221,42 @@
     "peeringlan": "2001:7f8:b8::/48"
   },
   {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "185.0.26.0/24"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "194.42.47.0/26"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "2001:7f8:146::/64"
+  },
+  {
+    "id": "he_TurkIX",
+    "name": "TurkIX",
+    "country": "BG",
+    "city": "Sofia",
+    "region": "Europe",
+    "url": "https://www.turkix.bg",
+    "peeringlan": "2001:7f8:161::/64"
+  },
+  {
     "id": "he_RIX",
     "name": "RIX",
     "country": "IS",
@@ -4291,42 +4327,6 @@
     "region": "Africa",
     "url": "http://www.ixp.net.ng",
     "peeringlan": "2001:43f8:bb1:150::/64"
-  },
-  {
-    "id": "he_TurkIX",
-    "name": "TurkIX",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.turkix.bg",
-    "peeringlan": "185.0.26.0/24"
-  },
-  {
-    "id": "he_TurkIX",
-    "name": "TurkIX",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.turkix.bg",
-    "peeringlan": "194.42.47.0/26"
-  },
-  {
-    "id": "he_TurkIX",
-    "name": "TurkIX",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.turkix.bg",
-    "peeringlan": "2001:7f8:146::/64"
-  },
-  {
-    "id": "he_TurkIX",
-    "name": "TurkIX",
-    "country": "BG",
-    "city": "Sofia",
-    "region": "Europe",
-    "url": "https://www.turkix.bg",
-    "peeringlan": "2001:7f8:161::/64"
   },
   {
     "id": "he_SOX%20Singapore",
@@ -4552,24 +4552,6 @@
     "region": "Africa",
     "url": "http://www.mixp.org/",
     "peeringlan": "2001:43f8:270:d0d0::/64"
-  },
-  {
-    "id": "he_CABASE-POS",
-    "name": "CABASE-POS",
-    "country": "AR",
-    "city": "Posadas",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "200.115.83.0/24"
-  },
-  {
-    "id": "he_CABASE-POS",
-    "name": "CABASE-POS",
-    "country": "AR",
-    "city": "Posadas",
-    "region": "South America",
-    "url": "http://www.cabase.org.ar/",
-    "peeringlan": "2001:13C7:6013::/64"
   },
   {
     "id": "he_Breizh-IX",
@@ -5020,6 +5002,24 @@
     "region": "Europe",
     "url": "http://www.tirol-ix.at/",
     "peeringlan": "2001:7f8:8d::/64"
+  },
+  {
+    "id": "he_CABASE-POS",
+    "name": "CABASE-POS",
+    "country": "AR",
+    "city": "Posadas",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "200.115.83.0/24"
+  },
+  {
+    "id": "he_CABASE-POS",
+    "name": "CABASE-POS",
+    "country": "AR",
+    "city": "Posadas",
+    "region": "South America",
+    "url": "http://www.cabase.org.ar/",
+    "peeringlan": "2001:13C7:6013::/64"
   },
   {
     "id": "he_SEECIX",

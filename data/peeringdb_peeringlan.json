@@ -17433,24 +17433,6 @@
     "peeringlan": "2405:aac0:22::/64"
   },
   {
-    "id": "pdb_4058",
-    "name": "SBG-IX",
-    "country": "FR",
-    "city": "Strasbourg",
-    "region": "Europe",
-    "url": "https://sbg-ix.net/",
-    "peeringlan": "2001:7f8:140::/64"
-  },
-  {
-    "id": "pdb_4058",
-    "name": "SBG-IX",
-    "country": "FR",
-    "city": "Strasbourg",
-    "region": "Europe",
-    "url": "https://sbg-ix.net/",
-    "peeringlan": "185.1.148.0/24"
-  },
-  {
     "id": "pdb_4059",
     "name": "ONIX",
     "country": "CA",
@@ -21634,24 +21616,6 @@
     "region": "Asia Pacific",
     "url": "https://ixpm.akae.re/en/TFU",
     "peeringlan": "2001:7f8:fc:1::/64"
-  },
-  {
-    "id": "pdb_4778",
-    "name": "SONIA IX",
-    "country": "ID",
-    "city": "Sidoarjo",
-    "region": "Asia Pacific",
-    "url": "https://www.sonia.net.id",
-    "peeringlan": "103.152.21.128/25"
-  },
-  {
-    "id": "pdb_4778",
-    "name": "SONIA IX",
-    "country": "ID",
-    "city": "Sidoarjo",
-    "region": "Asia Pacific",
-    "url": "https://www.sonia.net.id",
-    "peeringlan": "103.255.109.0/25"
   },
   {
     "id": "pdb_4779",

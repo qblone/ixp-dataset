@@ -16641,24 +16641,6 @@
     "peeringlan": "2405:aac0:22::/64"
   },
   {
-    "id": "pdb_4058_01",
-    "name": "SBG-IX",
-    "country": "FR",
-    "city": "Strasbourg",
-    "region": "Europe",
-    "url": "https://sbg-ix.net/",
-    "peeringlan": "2001:7f8:140::/64"
-  },
-  {
-    "id": "pdb_4058_02",
-    "name": "SBG-IX",
-    "country": "FR",
-    "city": "Strasbourg",
-    "region": "Europe",
-    "url": "https://sbg-ix.net/",
-    "peeringlan": "185.1.148.0/24"
-  },
-  {
     "id": "pdb_4059_01",
     "name": "ONIX",
     "country": "CA",
@@ -20781,24 +20763,6 @@
     "peeringlan": "2001:7f8:fc:1::/64"
   },
   {
-    "id": "pdb_4778_01",
-    "name": "SONIA IX",
-    "country": "ID",
-    "city": "Sidoarjo",
-    "region": "Asia Pacific",
-    "url": "https://www.sonia.net.id",
-    "peeringlan": "103.152.21.128/25"
-  },
-  {
-    "id": "pdb_4778_02",
-    "name": "SONIA IX",
-    "country": "ID",
-    "city": "Sidoarjo",
-    "region": "Asia Pacific",
-    "url": "https://www.sonia.net.id",
-    "peeringlan": "103.255.109.0/25"
-  },
-  {
     "id": "pdb_4779_01",
     "name": "TievoluIX",
     "country": "DE",
@@ -24255,24 +24219,6 @@
     "peeringlan": "2a0f:85c1:357:1::/64"
   },
   {
-    "id": "he_LIXP%20Vilnius_01",
-    "name": "LIXP Vilnius",
-    "country": "LT",
-    "city": "Vilnius",
-    "region": "Europe",
-    "url": "http://www.lixp.lt/en/",
-    "peeringlan": "193.200.209.0/25"
-  },
-  {
-    "id": "he_CN-IX%20Shanghai_01",
-    "name": "CN-IX Shanghai",
-    "country": "CN",
-    "city": "ShangHai",
-    "region": "Asia Pacific",
-    "url": "http://www.cn-ix.com",
-    "peeringlan": "43.249.135.0/22"
-  },
-  {
     "id": "he_GIXA_01",
     "name": "GIXA",
     "country": "GH",
@@ -24289,6 +24235,24 @@
     "region": "Africa",
     "url": "http://www.gixa.org.gh",
     "peeringlan": "2001:43f8:ae1::/48"
+  },
+  {
+    "id": "he_LIXP%20Vilnius_01",
+    "name": "LIXP Vilnius",
+    "country": "LT",
+    "city": "Vilnius",
+    "region": "Europe",
+    "url": "http://www.lixp.lt/en/",
+    "peeringlan": "193.200.209.0/25"
+  },
+  {
+    "id": "he_CN-IX%20Shanghai_01",
+    "name": "CN-IX Shanghai",
+    "country": "CN",
+    "city": "ShangHai",
+    "region": "Asia Pacific",
+    "url": "http://www.cn-ix.com",
+    "peeringlan": "43.249.135.0/22"
   },
   {
     "id": "he_LITIX_01",
@@ -24397,6 +24361,24 @@
     "region": "Africa",
     "url": "https://www.ams-ix.net/dji",
     "peeringlan": "2001:43f8:9c0:1000::/64"
+  },
+  {
+    "id": "he_SBG-IX_01",
+    "name": "SBG-IX",
+    "country": "FR",
+    "city": "Strasbourg",
+    "region": "Europe",
+    "url": "https://sbg-ix.net/",
+    "peeringlan": "185.1.148.0/24"
+  },
+  {
+    "id": "he_SBG-IX_02",
+    "name": "SBG-IX",
+    "country": "FR",
+    "city": "Strasbourg",
+    "region": "Europe",
+    "url": "https://sbg-ix.net/",
+    "peeringlan": "2001:7f8:140::/64"
   },
   {
     "id": "he_PaducahIX_01",

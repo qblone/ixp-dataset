@@ -22933,12 +22933,12 @@
   },
   {
     "id": "pdb_4971",
-    "name": "LMIX Amsterdam",
+    "name": "LMIX - Amsterdam",
     "country": "NL",
     "city": "Amsterdam",
     "region": "Europe",
     "url": "https://sfix.lytrix.fun",
-    "peeringlan": "2a06:1283:8b67:1::/64"
+    "peeringlan": "2a14:7585:d0fc:1::/64"
   },
   {
     "id": "pdb_4972",
@@ -23167,12 +23167,12 @@
   },
   {
     "id": "pdb_4998",
-    "name": "LMIX Frankfurt",
+    "name": "LMIX - Dusseldorf",
     "country": "DE",
-    "city": "Frankfurt",
+    "city": "D\u00fcsseldorf",
     "region": "Europe",
     "url": "https://sfix.lytrix.fun",
-    "peeringlan": "2a06:1283:8b67:2::/64"
+    "peeringlan": "2a14:7585:d0fc:2::/64"
   },
   {
     "id": "pdb_5002",
@@ -23245,5 +23245,14 @@
     "region": "Africa",
     "url": "http://lixp.org.ls",
     "peeringlan": "196.223.24.0/24"
+  },
+  {
+    "id": "pdb_5016",
+    "name": "BG5G IX - Hong Kong",
+    "country": "HK",
+    "city": "Hong Kong",
+    "region": "Asia Pacific",
+    "url": "https://BG5GIX.net",
+    "peeringlan": "2406:840:e280:1::/64"
   }
 ]

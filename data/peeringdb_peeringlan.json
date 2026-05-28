@@ -586,7 +586,7 @@
   },
   {
     "id": "pdb_55",
-    "name": "BiX",
+    "name": "BIX",
     "country": "HU",
     "city": "Budapest",
     "region": "Europe",
@@ -595,7 +595,7 @@
   },
   {
     "id": "pdb_55",
-    "name": "BiX",
+    "name": "BIX",
     "country": "HU",
     "city": "Budapest",
     "region": "Europe",
@@ -8269,24 +8269,6 @@
     "region": "North America",
     "url": "https://megaport.com",
     "peeringlan": "2606:a980:0:9::/64"
-  },
-  {
-    "id": "pdb_1634",
-    "name": "SCL-IX Chile-Main",
-    "country": "CL",
-    "city": "Santiago",
-    "region": "South America",
-    "url": "https://www.sclix.cl",
-    "peeringlan": "170.246.67.0/24"
-  },
-  {
-    "id": "pdb_1634",
-    "name": "SCL-IX Chile-Main",
-    "country": "CL",
-    "city": "Santiago",
-    "region": "South America",
-    "url": "https://www.sclix.cl",
-    "peeringlan": "2803:dc40::/64"
   },
   {
     "id": "pdb_1658",
@@ -16890,15 +16872,6 @@
     "city": "Amsterdam",
     "region": "Europe",
     "url": "https://www.inter-ix.net/",
-    "peeringlan": "185.0.1.0/24"
-  },
-  {
-    "id": "pdb_3990",
-    "name": "INTERIX",
-    "country": "NL",
-    "city": "Amsterdam",
-    "region": "Europe",
-    "url": "https://www.inter-ix.net/",
     "peeringlan": "2001:7f8:134::/64"
   },
   {
@@ -22992,7 +22965,7 @@
     "city": "Delhi",
     "region": "Asia Pacific",
     "url": "https://www.mx-ix.com",
-    "peeringlan": "103.162.77.0/24"
+    "peeringlan": "103.162.77.0/25"
   },
   {
     "id": "pdb_4983",
